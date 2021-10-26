@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+    color: orange;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav{
+    height: 10vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav h1{
+    width: 80%;
+    padding: 30px;
+}
+
+nav .menu-icon{
+    margin-left: auto;
+    padding: 30px;
+}
+
+main{
+    text-align: center;
+}
+
+main *{
+    margin: auto;
+}
+
+.sandwich {
+    width: 35px;
+    height: 5px;
+    background-color: orange;
+    margin: 6px 0;
+  }
+
+  .recommended{
+      display:flex;
+      justify-content: center;
+  }
+
+  .champ{
+      text-align:center;
+  }
+
+
+.champ h3{
+    color: black;
+    background-color: orange;
+    border-radius: 10px;
+    width: 5em;
+    padding: .2em;
+    margin: auto;
+}
+
+.favorites{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
