@@ -1,0 +1,9168 @@
+{
+    "items": [
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4jKfciVCNfRP47DPsXPFBX",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:07:52.119Z",
+    "updatedAt": "2021-10-14T21:30:16.713Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Zilean",
+    "damageType": "AP",
+    "poke": 8,
+    "engage": 9,
+    "disengage": 9,
+    "skirmish": 5,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 3,
+    "scaling": 8,
+    "utility": 8,
+    "dps": 2,
+    "burst": 7,
+    "tankiness": 1,
+    "mobility": 5,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "23TMgcj6acLeeO3nkVtDhK",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:06:18.346Z",
+    "updatedAt": "2021-10-14T21:29:09.107Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Zac",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 10,
+    "disengage": 3,
+    "skirmish": 6,
+    "teamfight": 9,
+    "splitPushing": 1,
+    "earlyGame": 5,
+    "scaling": 5,
+    "utility": 6,
+    "dps": 2,
+    "burst": 5,
+    "tankiness": 8,
+    "mobility": 4,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1IUqDnVD50VgWOqIBStIEp",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:57:14.656Z",
+    "updatedAt": "2021-10-14T21:27:01.653Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Vel'koz",
+    "damageType": "AP",
+    "poke": 10,
+    "engage": 6,
+    "disengage": 8,
+    "skirmish": 5,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 5,
+    "scaling": 7,
+    "utility": 2,
+    "dps": 3,
+    "burst": 8,
+    "tankiness": 1,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3Bpo9Nv5LDBz6P2CoggDoC",
+    "type": "Entry",
+    "createdAt": "2021-10-13T01:03:19.863Z",
+    "updatedAt": "2021-10-14T21:26:57.717Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Xayah",
+    "damageType": "AD",
+    "poke": 6,
+    "engage": 6,
+    "disengage": 10,
+    "skirmish": 5,
+    "teamfight": 8,
+    "splitPushing": 2,
+    "earlyGame": 3,
+    "scaling": 7,
+    "utility": 4,
+    "dps": 8,
+    "burst": 6,
+    "tankiness": 2,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4ruNwQPvwp8MuLJ9hiPBNi",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:14:00.962Z",
+    "updatedAt": "2021-10-14T21:24:44.425Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Vladimir",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 5,
+    "disengage": 9,
+    "skirmish": 6,
+    "teamfight": 4,
+    "splitPushing": 2,
+    "earlyGame": 2,
+    "scaling": 9,
+    "utility": 2,
+    "dps": 2,
+    "burst": 9,
+    "tankiness": 4,
+    "mobility": 2,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7sS5w4TufsyOfqjfgxKH8w",
+    "type": "Entry",
+    "createdAt": "2021-10-12T03:36:03.942Z",
+    "updatedAt": "2021-10-14T21:24:21.131Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Viktor",
+    "damageType": "AP",
+    "poke": 6,
+    "engage": 4,
+    "disengage": 8,
+    "skirmish": 4,
+    "teamfight": 9,
+    "splitPushing": 4,
+    "earlyGame": 2,
+    "scaling": 8,
+    "utility": 4,
+    "dps": 5,
+    "burst": 7,
+    "tankiness": 3,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5sWgl2SCdmPdnydaWtNsVK",
+    "type": "Entry",
+    "createdAt": "2021-10-12T04:11:39.133Z",
+    "updatedAt": "2021-10-14T21:23:48.601Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Vex",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 7,
+    "disengage": 2,
+    "skirmish": 6,
+    "teamfight": 8,
+    "splitPushing": 2,
+    "earlyGame": 5,
+    "scaling": 7,
+    "utility": 5,
+    "dps": 3,
+    "burst": 9,
+    "tankiness": 2,
+    "mobility": 4,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3tQ23cskB0PEgyHr0t1PHL",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:56:00.207Z",
+    "updatedAt": "2021-10-14T21:21:58.852Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Veigar",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 4,
+    "disengage": 8,
+    "skirmish": 5,
+    "teamfight": 6,
+    "splitPushing": 2,
+    "earlyGame": 2,
+    "scaling": 9,
+    "utility": 4,
+    "dps": 2,
+    "burst": 10,
+    "tankiness": 1,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6iiomXDcn6bMz9MniEMgZT",
+    "type": "Entry",
+    "createdAt": "2021-10-14T21:21:07.352Z",
+    "updatedAt": "2021-10-14T21:21:07.352Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Varus",
+    "damageType": "AD",
+    "poke": 7,
+    "engage": 8,
+    "disengage": 4,
+    "skirmish": 4,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 5,
+    "scaling": 6,
+    "utility": 4,
+    "dps": 6,
+    "burst": 6,
+    "tankiness": 2,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6VvKLO2VY4JQYJQ58gcXpZ",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:55:25.624Z",
+    "updatedAt": "2021-10-14T21:19:58.411Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Urgot",
+    "damageType": "AD",
+    "poke": 5,
+    "engage": 4,
+    "disengage": 7,
+    "skirmish": 8,
+    "teamfight": 4,
+    "splitPushing": 5,
+    "earlyGame": 6,
+    "scaling": 6,
+    "utility": 4,
+    "dps": 7,
+    "burst": 3,
+    "tankiness": 5,
+    "mobility": 2,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1DSiopR7rWheuTQB8I7sil",
+    "type": "Entry",
+    "createdAt": "2021-10-12T03:48:25.134Z",
+    "updatedAt": "2021-10-14T21:19:26.762Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 5,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Udyr",
+    "damageType": "Flex",
+    "poke": 2,
+    "engage": 10,
+    "disengage": 8,
+    "skirmish": 7,
+    "teamfight": 6,
+    "splitPushing": 7,
+    "earlyGame": 5,
+    "scaling": 6,
+    "utility": 6,
+    "dps": 5,
+    "burst": 6,
+    "tankiness": 7,
+    "mobility": 6,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "16ZcWKmSV609VVbdX0NCtn",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:53:57.123Z",
+    "updatedAt": "2021-10-14T21:18:43.950Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Tryndamere",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 6,
+    "disengage": 3,
+    "skirmish": 9,
+    "teamfight": 3,
+    "splitPushing": 10,
+    "earlyGame": 6,
+    "scaling": 5,
+    "utility": 2,
+    "dps": 7,
+    "burst": 5,
+    "tankiness": 3,
+    "mobility": 8,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "588Dz9ymIPubQTghmERw9Z",
+    "type": "Entry",
+    "createdAt": "2021-10-12T04:00:05.949Z",
+    "updatedAt": "2021-10-14T21:16:08.949Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Thresh",
+    "damageType": "AP",
+    "poke": 5,
+    "engage": 9,
+    "disengage": 8,
+    "skirmish": 7,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 7,
+    "scaling": 7,
+    "utility": 9,
+    "dps": 2,
+    "burst": 4,
+    "tankiness": 6,
+    "mobility": 4,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1exEykV7KJA7ZNDjgEafvT",
+    "type": "Entry",
+    "createdAt": "2021-10-13T01:21:46.958Z",
+    "updatedAt": "2021-10-14T21:14:54.860Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Tahm Kench",
+    "damageType": "AP",
+    "poke": 3,
+    "engage": 7,
+    "disengage": 8,
+    "skirmish": 7,
+    "teamfight": 5,
+    "splitPushing": 5,
+    "earlyGame": 6,
+    "scaling": 5,
+    "utility": 7,
+    "dps": 4,
+    "burst": 4,
+    "tankiness": 10,
+    "mobility": 5,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "VM0TWr1pLmdynVNXy8ZMQ",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:46:43.450Z",
+    "updatedAt": "2021-10-14T21:14:02.547Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Sylas",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 7,
+    "disengage": 3,
+    "skirmish": 8,
+    "teamfight": 6,
+    "splitPushing": 5,
+    "earlyGame": 2,
+    "scaling": 8,
+    "utility": 2,
+    "dps": 5,
+    "burst": 7,
+    "tankiness": 5,
+    "mobility": 5,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1XqYXleY6MqLPEHjCqQDTw",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:45:45.253Z",
+    "updatedAt": "2021-10-14T21:13:04.391Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Swain",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 6,
+    "disengage": 8,
+    "skirmish": 8,
+    "teamfight": 6,
+    "splitPushing": 2,
+    "earlyGame": 6,
+    "scaling": 6,
+    "utility": 4,
+    "dps": 3,
+    "burst": 7,
+    "tankiness": 4,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7JhBWpGPrz3LoYeRIZ8L2o",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:44:49.979Z",
+    "updatedAt": "2021-10-14T21:10:34.494Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Skarner",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 6,
+    "disengage": 6,
+    "skirmish": 7,
+    "teamfight": 6,
+    "splitPushing": 3,
+    "earlyGame": 2,
+    "scaling": 5,
+    "utility": 7,
+    "dps": 6,
+    "burst": 3,
+    "tankiness": 6,
+    "mobility": 4,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6ZNkzgM3RNJhKuqjbialGJ",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:37:16.031Z",
+    "updatedAt": "2021-10-14T21:10:21.311Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Sivir",
+    "damageType": "AD",
+    "poke": 7,
+    "engage": 8,
+    "disengage": 8,
+    "skirmish": 4,
+    "teamfight": 7,
+    "splitPushing": 3,
+    "earlyGame": 5,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 7,
+    "burst": 6,
+    "tankiness": 2,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "Sb3mZKMEmhBJdDq8Cc94B",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:44:26.857Z",
+    "updatedAt": "2021-10-14T21:10:08.114Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Sion",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 8,
+    "disengage": 5,
+    "skirmish": 6,
+    "teamfight": 7,
+    "splitPushing": 10,
+    "earlyGame": 5,
+    "scaling": 8,
+    "utility": 5,
+    "dps": 3,
+    "burst": 6,
+    "tankiness": 9,
+    "mobility": 4,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "50LujPrJp7DtZ1IhvQoNpW",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:41:00.159Z",
+    "updatedAt": "2021-10-14T21:07:37.821Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Shaco",
+    "damageType": "Flex",
+    "poke": 2,
+    "engage": 4,
+    "disengage": 9,
+    "skirmish": 8,
+    "teamfight": 4,
+    "splitPushing": 5,
+    "earlyGame": 7,
+    "scaling": 4,
+    "utility": 6,
+    "dps": 4,
+    "burst": 6,
+    "tankiness": 1,
+    "mobility": 7,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4D4JYDyN22QCAhgeVJooNc",
+    "type": "Entry",
+    "createdAt": "2021-10-12T04:18:01.015Z",
+    "updatedAt": "2021-10-14T21:07:28.630Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 5,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Sett",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 9,
+    "disengage": 4,
+    "skirmish": 8,
+    "teamfight": 6,
+    "splitPushing": 9,
+    "earlyGame": 9,
+    "scaling": 3,
+    "utility": 4,
+    "dps": 6,
+    "burst": 6,
+    "tankiness": 7,
+    "mobility": 3,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7FGmxLc7to31yCRze5vFH0",
+    "type": "Entry",
+    "createdAt": "2021-10-13T01:19:12.054Z",
+    "updatedAt": "2021-10-14T21:06:47.732Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Seraphine",
+    "damageType": "AP",
+    "poke": 8,
+    "engage": 7,
+    "disengage": 6,
+    "skirmish": 3,
+    "teamfight": 9,
+    "splitPushing": 2,
+    "earlyGame": 4,
+    "scaling": 8,
+    "utility": 7,
+    "dps": 2,
+    "burst": 5,
+    "tankiness": 3,
+    "mobility": 4,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": true,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4NCC3sYzRAWa50y4WGn2eb",
+    "type": "Entry",
+    "createdAt": "2021-10-12T02:58:59.510Z",
+    "updatedAt": "2021-10-14T21:06:34.808Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Senna",
+    "damageType": "AD",
+    "poke": 7,
+    "engage": 8,
+    "disengage": 3,
+    "skirmish": 2,
+    "teamfight": 8,
+    "splitPushing": 2,
+    "earlyGame": 3,
+    "scaling": 9,
+    "utility": 8,
+    "dps": 5,
+    "burst": 7,
+    "tankiness": 2,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": true,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "CikYDgM8ZlS3pP2tQQe2h",
+    "type": "Entry",
+    "createdAt": "2021-10-12T03:05:31.422Z",
+    "updatedAt": "2021-10-14T21:05:23.607Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Samira",
+    "damageType": "AD",
+    "poke": 4,
+    "engage": 9,
+    "disengage": 5,
+    "skirmish": 6,
+    "teamfight": 8,
+    "splitPushing": 4,
+    "earlyGame": 6,
+    "scaling": 8,
+    "utility": 3,
+    "dps": 6,
+    "burst": 6,
+    "tankiness": 3,
+    "mobility": 7,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4LuPm6y0HCjuWQLf8Kbh4i",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:38:54.652Z",
+    "updatedAt": "2021-10-14T21:05:09.142Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Rumble",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 8,
+    "disengage": 8,
+    "skirmish": 6,
+    "teamfight": 10,
+    "splitPushing": 2,
+    "earlyGame": 4,
+    "scaling": 7,
+    "utility": 3,
+    "dps": 5,
+    "burst": 6,
+    "tankiness": 2,
+    "mobility": 2,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4fsXkwzxZF68LY7bYQKTpo",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:36:34.159Z",
+    "updatedAt": "2021-10-14T21:04:01.684Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Renekton",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 7,
+    "disengage": 4,
+    "skirmish": 9,
+    "teamfight": 6,
+    "splitPushing": 6,
+    "earlyGame": 8,
+    "scaling": 4,
+    "utility": 2,
+    "dps": 4,
+    "burst": 6,
+    "tankiness": 4,
+    "mobility": 4,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2BCKdHIHrGnaEfS95HohXn",
+    "type": "Entry",
+    "createdAt": "2021-10-14T21:02:28.511Z",
+    "updatedAt": "2021-10-14T21:02:28.511Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Rek'sai",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 8,
+    "disengage": 2,
+    "skirmish": 7,
+    "teamfight": 4,
+    "splitPushing": 3,
+    "earlyGame": 7,
+    "scaling": 3,
+    "utility": 6,
+    "dps": 3,
+    "burst": 8,
+    "tankiness": 3,
+    "mobility": 4,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "483ACzUzrLjPlzS4zFiTzl",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:36:01.008Z",
+    "updatedAt": "2021-10-14T21:00:29.667Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Ornn",
+    "damageType": "AP",
+    "poke": 1,
+    "engage": 10,
+    "disengage": 8,
+    "skirmish": 4,
+    "teamfight": 10,
+    "splitPushing": 2,
+    "earlyGame": 5,
+    "scaling": 8,
+    "utility": 7,
+    "dps": 2,
+    "burst": 5,
+    "tankiness": 9,
+    "mobility": 2,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "21h3s07vgUGAAEhnjMP8rQ",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:35:28.446Z",
+    "updatedAt": "2021-10-14T20:58:14.708Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Orianna",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 9,
+    "disengage": 8,
+    "skirmish": 6,
+    "teamfight": 9,
+    "splitPushing": 3,
+    "earlyGame": 4,
+    "scaling": 7,
+    "utility": 6,
+    "dps": 5,
+    "burst": 7,
+    "tankiness": 3,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4e2rDuuLDRmtHI9ScYn0Wq",
+    "type": "Entry",
+    "createdAt": "2021-10-12T03:44:04.205Z",
+    "updatedAt": "2021-10-14T20:57:45.287Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 4,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Nunu and Willump",
+    "damageType": "AP",
+    "poke": 4,
+    "engage": 9,
+    "disengage": 2,
+    "skirmish": 6,
+    "teamfight": 7,
+    "splitPushing": 5,
+    "earlyGame": 8,
+    "scaling": 5,
+    "utility": 8,
+    "dps": 3,
+    "burst": 6,
+    "tankiness": 8,
+    "mobility": 7,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "631KO7FgeHQ22uRa2Zva7K",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:32:59.839Z",
+    "updatedAt": "2021-10-14T20:55:57.116Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Nautilus",
+    "damageType": "AP",
+    "poke": 1,
+    "engage": 7,
+    "disengage": 5,
+    "skirmish": 6,
+    "teamfight": 6,
+    "splitPushing": 1,
+    "earlyGame": 8,
+    "scaling": 3,
+    "utility": 8,
+    "dps": 1,
+    "burst": 2,
+    "tankiness": 9,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2HB4PNd8lU9gUArraIHGX6",
+    "type": "Entry",
+    "createdAt": "2021-10-12T04:04:11.936Z",
+    "updatedAt": "2021-10-14T20:54:27.751Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Nami",
+    "damageType": "AP",
+    "poke": 9,
+    "engage": 6,
+    "disengage": 8,
+    "skirmish": 2,
+    "teamfight": 9,
+    "splitPushing": 1,
+    "earlyGame": 5,
+    "scaling": 7,
+    "utility": 9,
+    "dps": 2,
+    "burst": 3,
+    "tankiness": 3,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5euwWymplHpwuMpRBz1KZ6",
+    "type": "Entry",
+    "createdAt": "2021-10-13T01:06:42.725Z",
+    "updatedAt": "2021-10-14T20:53:47.716Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Miss Fortune",
+    "damageType": "AD",
+    "poke": 6,
+    "engage": 9,
+    "disengage": 7,
+    "skirmish": 3,
+    "teamfight": 7,
+    "splitPushing": 4,
+    "earlyGame": 6,
+    "scaling": 7,
+    "utility": 3,
+    "dps": 6,
+    "burst": 6,
+    "tankiness": 2,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3d50FqUa1JkpUHFiDIUZ9n",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:29:17.169Z",
+    "updatedAt": "2021-10-14T20:52:39.096Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Maokai",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 9,
+    "disengage": 8,
+    "skirmish": 4,
+    "teamfight": 6,
+    "splitPushing": 3,
+    "earlyGame": 3,
+    "scaling": 5,
+    "utility": 6,
+    "dps": 2,
+    "burst": 4,
+    "tankiness": 9,
+    "mobility": 3,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7QU1xkgCrRA78iWauTazj",
+    "type": "Entry",
+    "createdAt": "2021-10-13T17:55:25.864Z",
+    "updatedAt": "2021-10-14T20:51:38.502Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Malphite",
+    "damageType": "AP",
+    "poke": 5,
+    "engage": 9,
+    "disengage": 5,
+    "skirmish": 4,
+    "teamfight": 8,
+    "splitPushing": 4,
+    "earlyGame": 4,
+    "scaling": 6,
+    "utility": 6,
+    "dps": 2,
+    "burst": 6,
+    "tankiness": 8,
+    "mobility": 5,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "E4SQqASGG3K691o1kKtEp",
+    "type": "Entry",
+    "createdAt": "2021-10-13T01:09:15.011Z",
+    "updatedAt": "2021-10-14T20:51:14.750Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Lux",
+    "damageType": "AP",
+    "poke": 10,
+    "engage": 6,
+    "disengage": 6,
+    "skirmish": 5,
+    "teamfight": 6,
+    "splitPushing": 2,
+    "earlyGame": 6,
+    "scaling": 6,
+    "utility": 6,
+    "dps": 2,
+    "burst": 7,
+    "tankiness": 2,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "KYx0PsBicIIevripDChJm",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:50:13.959Z",
+    "updatedAt": "2021-10-14T20:50:13.959Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Lulu",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 9,
+    "disengage": 7,
+    "skirmish": 6,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 4,
+    "scaling": 8,
+    "utility": 10,
+    "dps": 3,
+    "burst": 4,
+    "tankiness": 3,
+    "mobility": 2,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7yZMOlrUHAB6r9zhYv54Ll",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:49:48.837Z",
+    "updatedAt": "2021-10-14T20:49:48.837Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Lucian",
+    "damageType": "AD",
+    "poke": 6,
+    "engage": 7,
+    "disengage": 7,
+    "skirmish": 7,
+    "teamfight": 6,
+    "splitPushing": 4,
+    "earlyGame": 7,
+    "scaling": 7,
+    "utility": 2,
+    "dps": 8,
+    "burst": 8,
+    "tankiness": 2,
+    "mobility": 7,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1PVoQw60UGGhiNAnwOQwHC",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:49:01.170Z",
+    "updatedAt": "2021-10-14T20:49:01.170Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Lilia",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 7,
+    "disengage": 7,
+    "skirmish": 6,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 4,
+    "scaling": 8,
+    "utility": 5,
+    "dps": 4,
+    "burst": 8,
+    "tankiness": 3,
+    "mobility": 6,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7G76h5gfBIZ9cPPeqAT3bd",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:25:53.352Z",
+    "updatedAt": "2021-10-14T20:47:57.484Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Lee Sin",
+    "damageType": "AD",
+    "poke": 4,
+    "engage": 8,
+    "disengage": 6,
+    "skirmish": 8,
+    "teamfight": 6,
+    "splitPushing": 5,
+    "earlyGame": 7,
+    "scaling": 4,
+    "utility": 5,
+    "dps": 5,
+    "burst": 6,
+    "tankiness": 4,
+    "mobility": 10,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4IpkRcxHJeh9oYRoufPo83",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:46:03.316Z",
+    "updatedAt": "2021-10-14T20:46:03.316Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Kled",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 10,
+    "disengage": 6,
+    "skirmish": 9,
+    "teamfight": 6,
+    "splitPushing": 8,
+    "earlyGame": 9,
+    "scaling": 4,
+    "utility": 4,
+    "dps": 3,
+    "burst": 6,
+    "tankiness": 9,
+    "mobility": 7,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "705GtkgKWkFtHwdz6YQ67l",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:44:00.930Z",
+    "updatedAt": "2021-10-14T20:44:00.930Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Kindred",
+    "damageType": "AD",
+    "poke": 6,
+    "engage": 4,
+    "disengage": 9,
+    "skirmish": 7,
+    "teamfight": 7,
+    "splitPushing": 5,
+    "earlyGame": 3,
+    "scaling": 8,
+    "utility": 5,
+    "dps": 7,
+    "burst": 4,
+    "tankiness": 3,
+    "mobility": 6,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5OFb69N5pUpA2QR6S7SltP",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:43:30.654Z",
+    "updatedAt": "2021-10-14T20:43:30.654Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Kha'zix",
+    "damageType": "AD",
+    "poke": 4,
+    "engage": 5,
+    "disengage": 4,
+    "skirmish": 9,
+    "teamfight": 2,
+    "splitPushing": 4,
+    "earlyGame": 6,
+    "scaling": 6,
+    "utility": 2,
+    "dps": 3,
+    "burst": 10,
+    "tankiness": 2,
+    "mobility": 5,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "ZWcu8MPQyXnU9WApz7ksG",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:42:46.731Z",
+    "updatedAt": "2021-10-14T20:42:46.731Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Kennen",
+    "damageType": "AP",
+    "poke": 5,
+    "engage": 9,
+    "disengage": 9,
+    "skirmish": 6,
+    "teamfight": 10,
+    "splitPushing": 3,
+    "earlyGame": 4,
+    "scaling": 6,
+    "utility": 4,
+    "dps": 3,
+    "burst": 8,
+    "tankiness": 1,
+    "mobility": 4,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "66YJ9kR0MBvWb4vUJkakgW",
+    "type": "Entry",
+    "createdAt": "2021-10-12T03:23:06.773Z",
+    "updatedAt": "2021-10-14T20:41:21.579Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Kayle",
+    "damageType": "Flex",
+    "poke": 3,
+    "engage": 7,
+    "disengage": 6,
+    "skirmish": 5,
+    "teamfight": 5,
+    "splitPushing": 7,
+    "earlyGame": 1,
+    "scaling": 10,
+    "utility": 6,
+    "dps": 6,
+    "burst": 4,
+    "tankiness": 4,
+    "mobility": 4,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "31ZWfzAtxIs89TsTWfffBB",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:20:37.488Z",
+    "updatedAt": "2021-10-14T20:40:34.236Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Karthus",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 8,
+    "disengage": 2,
+    "skirmish": 5,
+    "teamfight": 4,
+    "splitPushing": 2,
+    "earlyGame": 2,
+    "scaling": 9,
+    "utility": 2,
+    "dps": 8,
+    "burst": 7,
+    "tankiness": 1,
+    "mobility": 1,
+    "top": false,
+    "jungler": true,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6GGIUVtg4AwaAeKNbDX6TD",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:19:53.367Z",
+    "updatedAt": "2021-10-14T20:39:57.384Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Karma",
+    "damageType": "AP",
+    "poke": 6,
+    "engage": 6,
+    "disengage": 8,
+    "skirmish": 7,
+    "teamfight": 6,
+    "splitPushing": 2,
+    "earlyGame": 6,
+    "scaling": 6,
+    "utility": 9,
+    "dps": 2,
+    "burst": 7,
+    "tankiness": 5,
+    "mobility": 5,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "42CmSfGmJVpirOL7gswBzR",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:19:10.831Z",
+    "updatedAt": "2021-10-14T20:39:15.779Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Kalista",
+    "damageType": "AD",
+    "poke": 6,
+    "engage": 9,
+    "disengage": 4,
+    "skirmish": 6,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 7,
+    "scaling": 6,
+    "utility": 4,
+    "dps": 8,
+    "burst": 6,
+    "tankiness": 2,
+    "mobility": 6,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3Otv8ApGkZsevs6eFfU9M1",
+    "type": "Entry",
+    "createdAt": "2021-10-12T03:14:06.966Z",
+    "updatedAt": "2021-10-14T20:37:45.909Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 5,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Jhin",
+    "damageType": "AD",
+    "poke": 7,
+    "engage": 8,
+    "disengage": 4,
+    "skirmish": 7,
+    "teamfight": 7,
+    "splitPushing": 3,
+    "earlyGame": 7,
+    "scaling": 8,
+    "utility": 5,
+    "dps": 5,
+    "burst": 8,
+    "tankiness": 2,
+    "mobility": 5,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7mJRWMkNVnGy9mQCaBUx2p",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:37:22.325Z",
+    "updatedAt": "2021-10-14T20:37:22.325Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Jayce",
+    "damageType": "AD",
+    "poke": 10,
+    "engage": 6,
+    "disengage": 7,
+    "skirmish": 7,
+    "teamfight": 5,
+    "splitPushing": 8,
+    "earlyGame": 5,
+    "scaling": 5,
+    "utility": 5,
+    "dps": 7,
+    "burst": 7,
+    "tankiness": 2,
+    "mobility": 4,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1P7EdAbaODmK01KxIPLqoq",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:14:46.258Z",
+    "updatedAt": "2021-10-14T20:35:02.418Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Ivern",
+    "damageType": "AP",
+    "poke": 1,
+    "engage": 7,
+    "disengage": 6,
+    "skirmish": 5,
+    "teamfight": 5,
+    "splitPushing": 1,
+    "earlyGame": 2,
+    "scaling": 7,
+    "utility": 10,
+    "dps": 1,
+    "burst": 2,
+    "tankiness": 3,
+    "mobility": 4,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1PVMRcxMKbKFMZzuzSAscK",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:14:16.332Z",
+    "updatedAt": "2021-10-14T20:34:12.993Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Irelia",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 8,
+    "disengage": 3,
+    "skirmish": 10,
+    "teamfight": 6,
+    "splitPushing": 8,
+    "earlyGame": 6,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 8,
+    "burst": 5,
+    "tankiness": 6,
+    "mobility": 10,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "13m9acFfVHIEUXwIe6zHqX",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:32:10.731Z",
+    "updatedAt": "2021-10-14T20:32:43.246Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Gwen",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 7,
+    "disengage": 7,
+    "skirmish": 8,
+    "teamfight": 4,
+    "splitPushing": 8,
+    "earlyGame": 6,
+    "scaling": 6,
+    "utility": 2,
+    "dps": 8,
+    "burst": 8,
+    "tankiness": 5,
+    "mobility": 6,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3wXKv27UHUl9bZ25Ch7JLU",
+    "type": "Entry",
+    "createdAt": "2021-10-12T04:22:01.917Z",
+    "updatedAt": "2021-10-14T20:30:35.367Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Gragas",
+    "damageType": "AP",
+    "poke": 6,
+    "engage": 8,
+    "disengage": 7,
+    "skirmish": 4,
+    "teamfight": 7,
+    "splitPushing": 4,
+    "earlyGame": 5,
+    "scaling": 5,
+    "utility": 7,
+    "dps": 3,
+    "burst": 6,
+    "tankiness": 7,
+    "mobility": 6,
+    "top": true,
+    "jungler": true,
+    "mid": true,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7AAjLk3W2R59miisj4ibvr",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:06:23.964Z",
+    "updatedAt": "2021-10-14T20:30:24.937Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Gnar",
+    "damageType": "Mixed",
+    "poke": 5,
+    "engage": 9,
+    "disengage": 3,
+    "skirmish": 6,
+    "teamfight": 9,
+    "splitPushing": 4,
+    "earlyGame": 5,
+    "scaling": 5,
+    "utility": 6,
+    "dps": 5,
+    "burst": 6,
+    "tankiness": 6,
+    "mobility": 5,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "21m7gGmbqYceTIyskg0xYK",
+    "type": "Entry",
+    "createdAt": "2021-10-13T17:41:18.999Z",
+    "updatedAt": "2021-10-14T20:30:15.949Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Garen",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 7,
+    "disengage": 5,
+    "skirmish": 8,
+    "teamfight": 6,
+    "splitPushing": 7,
+    "earlyGame": 7,
+    "scaling": 4,
+    "utility": 3,
+    "dps": 5,
+    "burst": 7,
+    "tankiness": 7,
+    "mobility": 4,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "zrKMegBA4a4YDQ9SC17md",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:05:55.837Z",
+    "updatedAt": "2021-10-14T20:29:38.789Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Gangplank",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 7,
+    "disengage": 5,
+    "skirmish": 8,
+    "teamfight": 6,
+    "splitPushing": 7,
+    "earlyGame": 7,
+    "scaling": 4,
+    "utility": 3,
+    "dps": 5,
+    "burst": 7,
+    "tankiness": 7,
+    "mobility": 4,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "71GZ71eyD4fHD5XJk0wFOi",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:57:14.789Z",
+    "updatedAt": "2021-10-14T20:26:31.391Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Ekko",
+    "damageType": "Mixed",
+    "poke": 6,
+    "engage": 6,
+    "disengage": 6,
+    "skirmish": 7,
+    "teamfight": 5,
+    "splitPushing": 8,
+    "earlyGame": 3,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 4,
+    "burst": 4,
+    "tankiness": 9,
+    "mobility": 3,
+    "top": false,
+    "jungler": true,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2mcbodVMMbgCr0rolH8LhX",
+    "type": "Entry",
+    "createdAt": "2021-10-12T03:31:58.643Z",
+    "updatedAt": "2021-10-14T20:26:12.357Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Dr. Mundo",
+    "damageType": "Mixed",
+    "poke": 6,
+    "engage": 6,
+    "disengage": 6,
+    "skirmish": 7,
+    "teamfight": 5,
+    "splitPushing": 8,
+    "earlyGame": 3,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 4,
+    "burst": 4,
+    "tankiness": 9,
+    "mobility": 3,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7z8BVTWyUqcb0l6RFx1Hr8",
+    "type": "Entry",
+    "createdAt": "2021-10-13T01:08:17.258Z",
+    "updatedAt": "2021-10-14T20:23:44.521Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Diana",
+    "damageType": "AP",
+    "poke": 4,
+    "engage": 8,
+    "disengage": 2,
+    "skirmish": 7,
+    "teamfight": 7,
+    "splitPushing": 7,
+    "earlyGame": 4,
+    "scaling": 6,
+    "utility": 2,
+    "dps": 5,
+    "burst": 8,
+    "tankiness": 5,
+    "mobility": 6,
+    "top": true,
+    "jungler": true,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2DdFFTdQ7qAS7hu7cwgHQI",
+    "type": "Entry",
+    "createdAt": "2021-10-12T03:17:27.281Z",
+    "updatedAt": "2021-10-14T20:22:46.058Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Darius",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 9,
+    "disengage": 2,
+    "skirmish": 10,
+    "teamfight": 4,
+    "splitPushing": 8,
+    "earlyGame": 8,
+    "scaling": 5,
+    "utility": 3,
+    "dps": 5,
+    "burst": 7,
+    "tankiness": 7,
+    "mobility": 3,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2tpum903MsGozyZxf0nj5p",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:55:51.672Z",
+    "updatedAt": "2021-10-14T20:22:19.580Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Cho'gath",
+    "damageType": "AP",
+    "poke": 3,
+    "engage": 6,
+    "disengage": 8,
+    "skirmish": 6,
+    "teamfight": 5,
+    "splitPushing": 4,
+    "earlyGame": 4,
+    "scaling": 7,
+    "utility": 7,
+    "dps": 3,
+    "burst": 7,
+    "tankiness": 9,
+    "mobility": 1,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5GQLYLpFhQFFQQq7v78K98",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:51:49.978Z",
+    "updatedAt": "2021-10-14T20:21:34.302Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 4,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Camille",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 5,
+    "disengage": 5,
+    "skirmish": 9,
+    "teamfight": 4,
+    "splitPushing": 10,
+    "earlyGame": 4,
+    "scaling": 7,
+    "utility": 3,
+    "dps": 5,
+    "burst": 6,
+    "tankiness": 5,
+    "mobility": 7,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7foZSyIbxF8iClAA8eFwm9",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:19:21.774Z",
+    "updatedAt": "2021-10-14T20:19:21.774Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Bard",
+    "damageType": "AP",
+    "poke": 5,
+    "engage": 8,
+    "disengage": 10,
+    "skirmish": 5,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 6,
+    "scaling": 7,
+    "utility": 8,
+    "dps": 4,
+    "burst": 4,
+    "tankiness": 1,
+    "mobility": 5,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6nYp44Fc3DkBLgFimLy72D",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:31:28.267Z",
+    "updatedAt": "2021-10-14T20:16:53.472Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Amumu",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 10,
+    "disengage": 2,
+    "skirmish": 6,
+    "teamfight": 10,
+    "splitPushing": 2,
+    "earlyGame": 2,
+    "scaling": 7,
+    "utility": 7,
+    "dps": 3,
+    "burst": 5,
+    "tankiness": 8,
+    "mobility": 5,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5XKCJR4w2Oa63cmQwYN5xr",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:28:51.011Z",
+    "updatedAt": "2021-10-14T20:16:41.923Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Akshan",
+    "damageType": "AD",
+    "poke": 6,
+    "engage": 8,
+    "disengage": 6,
+    "skirmish": 8,
+    "teamfight": 4,
+    "splitPushing": 5,
+    "earlyGame": 8,
+    "scaling": 2,
+    "utility": 3,
+    "dps": 6,
+    "burst": 7,
+    "tankiness": 3,
+    "mobility": 9,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3sEKATfV4GrRPoM5tHljel",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:27:29.807Z",
+    "updatedAt": "2021-10-14T20:15:50.158Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Ahri",
+    "damageType": "AP",
+    "poke": 6,
+    "engage": 7,
+    "disengage": 6,
+    "skirmish": 7,
+    "teamfight": 4,
+    "splitPushing": 3,
+    "earlyGame": 3,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 3,
+    "burst": 8,
+    "tankiness": 2,
+    "mobility": 7,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1z9xmOrjGSZ5nDoRTR2g20",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:11:44.145Z",
+    "updatedAt": "2021-10-14T20:11:44.145Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Taliyah",
+    "damageType": "AP",
+    "poke": 6,
+    "engage": 4,
+    "disengage": 8,
+    "skirmish": 8,
+    "teamfight": 4,
+    "splitPushing": 2,
+    "earlyGame": 4,
+    "scaling": 6,
+    "utility": 5,
+    "dps": 6,
+    "burst": 9,
+    "tankiness": 1,
+    "mobility": 5,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "ftYx8h5nelrydKvCWgIeS",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:08:54.154Z",
+    "updatedAt": "2021-10-14T20:08:54.154Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Zyra",
+    "damageType": "AP",
+    "poke": 9,
+    "engage": 5,
+    "disengage": 10,
+    "skirmish": 6,
+    "teamfight": 8,
+    "splitPushing": 1,
+    "earlyGame": 7,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 6,
+    "burst": 6,
+    "tankiness": 1,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6asrBfEtYVkDu1014M58p8",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:08:21.909Z",
+    "updatedAt": "2021-10-14T20:08:21.909Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Zoe",
+    "damageType": "AP",
+    "poke": 9,
+    "engage": 4,
+    "disengage": 6,
+    "skirmish": 7,
+    "teamfight": 4,
+    "splitPushing": 3,
+    "earlyGame": 4,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 3,
+    "burst": 9,
+    "tankiness": 1,
+    "mobility": 5,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "50bYAsDNmpEiNv5eJlrUAN",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:07:12.266Z",
+    "updatedAt": "2021-10-14T20:07:12.266Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Ziggs",
+    "damageType": "AP",
+    "poke": 10,
+    "engage": 5,
+    "disengage": 7,
+    "skirmish": 6,
+    "teamfight": 8,
+    "splitPushing": 6,
+    "earlyGame": 3,
+    "scaling": 6,
+    "utility": 4,
+    "dps": 4,
+    "burst": 7,
+    "tankiness": 1,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": true,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "52fGSnkQorgx57eQp6W68J",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:06:44.561Z",
+    "updatedAt": "2021-10-14T20:06:44.561Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Zed",
+    "damageType": "AD",
+    "poke": 6,
+    "engage": 6,
+    "disengage": 5,
+    "skirmish": 7,
+    "teamfight": 6,
+    "splitPushing": 5,
+    "earlyGame": 7,
+    "scaling": 4,
+    "utility": 2,
+    "dps": 3,
+    "burst": 9,
+    "tankiness": 1,
+    "mobility": 8,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5CWLIAEJjOLQpQvjyjrpjg",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:05:59.334Z",
+    "updatedAt": "2021-10-14T20:05:59.334Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Yuumi",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 8,
+    "disengage": 9,
+    "skirmish": 9,
+    "teamfight": 9,
+    "splitPushing": 1,
+    "earlyGame": 1,
+    "scaling": 7,
+    "utility": 7,
+    "dps": 1,
+    "burst": 1,
+    "tankiness": 1,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6E0V7DH0xflMOxEpbKBbrS",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:05:11.007Z",
+    "updatedAt": "2021-10-14T20:05:11.007Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Yorick",
+    "damageType": "AD",
+    "poke": 3,
+    "engage": 5,
+    "disengage": 7,
+    "skirmish": 7,
+    "teamfight": 4,
+    "splitPushing": 10,
+    "earlyGame": 7,
+    "scaling": 3,
+    "utility": 4,
+    "dps": 3,
+    "burst": 6,
+    "tankiness": 5,
+    "mobility": 2,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3kuudmE4p2KkMQ6tSsgsXx",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:04:29.769Z",
+    "updatedAt": "2021-10-14T20:04:29.769Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Yone",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 9,
+    "disengage": 6,
+    "skirmish": 9,
+    "teamfight": 8,
+    "splitPushing": 6,
+    "earlyGame": 4,
+    "scaling": 9,
+    "utility": 3,
+    "dps": 8,
+    "burst": 6,
+    "tankiness": 3,
+    "mobility": 8,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "tKPBxbyGg4Aye9L8qL1ul",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:04:06.895Z",
+    "updatedAt": "2021-10-14T20:04:06.895Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Yasuo",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 10,
+    "disengage": 4,
+    "skirmish": 8,
+    "teamfight": 8,
+    "splitPushing": 5,
+    "earlyGame": 4,
+    "scaling": 9,
+    "utility": 5,
+    "dps": 8,
+    "burst": 5,
+    "tankiness": 4,
+    "mobility": 10,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5WGT2V2LmBNpfw2EVYLILR",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:03:33.632Z",
+    "updatedAt": "2021-10-14T20:03:33.632Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Xin Zhao",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 7,
+    "disengage": 2,
+    "skirmish": 9,
+    "teamfight": 3,
+    "splitPushing": 7,
+    "earlyGame": 10,
+    "scaling": 1,
+    "utility": 3,
+    "dps": 6,
+    "burst": 5,
+    "tankiness": 4,
+    "mobility": 4,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6UgfwMoclAWYSiSeoMF4jc",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:02:58.994Z",
+    "updatedAt": "2021-10-14T20:02:58.994Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Xerath",
+    "damageType": "AP",
+    "poke": 10,
+    "engage": 2,
+    "disengage": 6,
+    "skirmish": 5,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 3,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 3,
+    "burst": 7,
+    "tankiness": 1,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "239sTI8hpvHI2DDHgxclWS",
+    "type": "Entry",
+    "createdAt": "2021-10-14T20:02:35.471Z",
+    "updatedAt": "2021-10-14T20:02:35.471Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Wukong",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 8,
+    "disengage": 5,
+    "skirmish": 7,
+    "teamfight": 6,
+    "splitPushing": 8,
+    "earlyGame": 6,
+    "scaling": 5,
+    "utility": 4,
+    "dps": 5,
+    "burst": 6,
+    "tankiness": 4,
+    "mobility": 4,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7ksHvgH9K7EisjVk3UL0xj",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:59:20.985Z",
+    "updatedAt": "2021-10-14T19:59:20.985Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Warwick",
+    "damageType": "AP",
+    "poke": 1,
+    "engage": 8,
+    "disengage": 3,
+    "skirmish": 9,
+    "teamfight": 4,
+    "splitPushing": 5,
+    "earlyGame": 6,
+    "scaling": 5,
+    "utility": 5,
+    "dps": 6,
+    "burst": 5,
+    "tankiness": 6,
+    "mobility": 3,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1MCnsRFs2f8iMMyLIybb8b",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:58:41.623Z",
+    "updatedAt": "2021-10-14T19:58:41.623Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Volibear",
+    "damageType": "Flex",
+    "poke": 3,
+    "engage": 8,
+    "disengage": 7,
+    "skirmish": 8,
+    "teamfight": 5,
+    "splitPushing": 7,
+    "earlyGame": 8,
+    "scaling": 4,
+    "utility": 4,
+    "dps": 4,
+    "burst": 7,
+    "tankiness": 8,
+    "mobility": 2,
+    "top": true,
+    "jungler": true,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4JBQ892cyIcAA60cKZ7ssW",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:57:48.975Z",
+    "updatedAt": "2021-10-14T19:57:48.975Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Viego",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 8,
+    "disengage": 3,
+    "skirmish": 9,
+    "teamfight": 8,
+    "splitPushing": 7,
+    "earlyGame": 4,
+    "scaling": 9,
+    "utility": 3,
+    "dps": 7,
+    "burst": 5,
+    "tankiness": 3,
+    "mobility": 4,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "12bCtds9pnuCheItq9UM7k",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:54:56.103Z",
+    "updatedAt": "2021-10-14T19:54:56.103Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Twitch",
+    "damageType": "Flex",
+    "poke": 5,
+    "engage": 9,
+    "disengage": 6,
+    "skirmish": 6,
+    "teamfight": 9,
+    "splitPushing": 3,
+    "earlyGame": 2,
+    "scaling": 9,
+    "utility": 2,
+    "dps": 9,
+    "burst": 7,
+    "tankiness": 1,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4DPUuXmBc4dUWXeOcCq8Ns",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:54:17.715Z",
+    "updatedAt": "2021-10-14T19:54:17.715Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Twisted Fate",
+    "damageType": "AP",
+    "poke": 9,
+    "engage": 4,
+    "disengage": 6,
+    "skirmish": 5,
+    "teamfight": 6,
+    "splitPushing": 3,
+    "earlyGame": 2,
+    "scaling": 7,
+    "utility": 6,
+    "dps": 4,
+    "burst": 6,
+    "tankiness": 1,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7fXx4QrD9VQaPBbaYqVLPW",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:52:29.458Z",
+    "updatedAt": "2021-10-14T19:52:29.458Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Trundle",
+    "damageType": "AD",
+    "poke": 3,
+    "engage": 8,
+    "disengage": 7,
+    "skirmish": 9,
+    "teamfight": 6,
+    "splitPushing": 5,
+    "earlyGame": 6,
+    "scaling": 7,
+    "utility": 2,
+    "dps": 5,
+    "burst": 7,
+    "tankiness": 1,
+    "mobility": 4,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1MdoPNzBC3XfhsoUABT8h1",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:51:49.822Z",
+    "updatedAt": "2021-10-14T19:51:49.822Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Tristana",
+    "damageType": "AD",
+    "poke": 3,
+    "engage": 8,
+    "disengage": 7,
+    "skirmish": 9,
+    "teamfight": 6,
+    "splitPushing": 5,
+    "earlyGame": 6,
+    "scaling": 7,
+    "utility": 2,
+    "dps": 5,
+    "burst": 7,
+    "tankiness": 1,
+    "mobility": 4,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "g8XzABvvEGCMvWyCpAYEx",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:51:13.135Z",
+    "updatedAt": "2021-10-14T19:51:13.135Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Teemo",
+    "damageType": "AP",
+    "poke": 6,
+    "engage": 3,
+    "disengage": 9,
+    "skirmish": 7,
+    "teamfight": 2,
+    "splitPushing": 7,
+    "earlyGame": 5,
+    "scaling": 3,
+    "utility": 5,
+    "dps": 5,
+    "burst": 6,
+    "tankiness": 2,
+    "mobility": 3,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4cHgAl0UBV3SuNn5umkRua",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:50:07.355Z",
+    "updatedAt": "2021-10-14T19:50:07.355Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Taric",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 10,
+    "disengage": 6,
+    "skirmish": 5,
+    "teamfight": 9,
+    "splitPushing": 3,
+    "earlyGame": 3,
+    "scaling": 7,
+    "utility": 7,
+    "dps": 4,
+    "burst": 4,
+    "tankiness": 7,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "s0mT0N0MVvd3ayWg8RmWX",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:49:34.994Z",
+    "updatedAt": "2021-10-14T19:49:34.994Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Talon",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 7,
+    "disengage": 4,
+    "skirmish": 8,
+    "teamfight": 3,
+    "splitPushing": 4,
+    "earlyGame": 7,
+    "scaling": 3,
+    "utility": 1,
+    "dps": 2,
+    "burst": 8,
+    "tankiness": 1,
+    "mobility": 10,
+    "top": false,
+    "jungler": true,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "byjLvDlrCsr0gF9USZ7V0",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:47:16.201Z",
+    "updatedAt": "2021-10-14T19:47:16.201Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Syndra",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 5,
+    "disengage": 8,
+    "skirmish": 7,
+    "teamfight": 5,
+    "splitPushing": 2,
+    "earlyGame": 3,
+    "scaling": 8,
+    "utility": 3,
+    "dps": 2,
+    "burst": 9,
+    "tankiness": 1,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3wJASIAy4iQ90EaD2FOCZ4",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:43:38.205Z",
+    "updatedAt": "2021-10-14T19:43:38.205Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Singed",
+    "damageType": "AP",
+    "poke": 1,
+    "engage": 4,
+    "disengage": 9,
+    "skirmish": 5,
+    "teamfight": 4,
+    "splitPushing": 4,
+    "earlyGame": 5,
+    "scaling": 6,
+    "utility": 6,
+    "dps": 4,
+    "burst": 5,
+    "tankiness": 8,
+    "mobility": 4,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "pZ4lckjnxoGCI4C9qZdT6",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:43:01.757Z",
+    "updatedAt": "2021-10-14T19:43:01.757Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Shyvana",
+    "damageType": "Flex",
+    "poke": 9,
+    "engage": 6,
+    "disengage": 6,
+    "skirmish": 7,
+    "teamfight": 5,
+    "splitPushing": 2,
+    "earlyGame": 2,
+    "scaling": 6,
+    "utility": 1,
+    "dps": 2,
+    "burst": 9,
+    "tankiness": 2,
+    "mobility": 3,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "YZ56cjePU2V0rOP3TYc3R",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:42:25.484Z",
+    "updatedAt": "2021-10-14T19:42:25.484Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Shen",
+    "damageType": "Mixed",
+    "poke": 1,
+    "engage": 8,
+    "disengage": 6,
+    "skirmish": 6,
+    "teamfight": 6,
+    "splitPushing": 7,
+    "earlyGame": 7,
+    "scaling": 5,
+    "utility": 6,
+    "dps": 5,
+    "burst": 2,
+    "tankiness": 9,
+    "mobility": 3,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4fZNf94GldMWJVdxJOAoBG",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:40:07.590Z",
+    "updatedAt": "2021-10-14T19:40:07.590Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Sejuani",
+    "damageType": "AP",
+    "poke": 1,
+    "engage": 9,
+    "disengage": 6,
+    "skirmish": 5,
+    "teamfight": 9,
+    "splitPushing": 1,
+    "earlyGame": 3,
+    "scaling": 5,
+    "utility": 7,
+    "dps": 2,
+    "burst": 3,
+    "tankiness": 9,
+    "mobility": 3,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2CkFMbLDSom6xe9eNthIbI",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:39:30.406Z",
+    "updatedAt": "2021-10-14T19:39:30.406Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Ryze",
+    "damageType": "AP",
+    "poke": 5,
+    "engage": 7,
+    "disengage": 4,
+    "skirmish": 9,
+    "teamfight": 6,
+    "splitPushing": 2,
+    "earlyGame": 4,
+    "scaling": 9,
+    "utility": 3,
+    "dps": 5,
+    "burst": 9,
+    "tankiness": 2,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7e9vGzKzxcgK8CekR4XZnE",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:38:21.647Z",
+    "updatedAt": "2021-10-14T19:38:21.647Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Riven",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 8,
+    "disengage": 6,
+    "skirmish": 9,
+    "teamfight": 7,
+    "splitPushing": 6,
+    "earlyGame": 6,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 6,
+    "burst": 8,
+    "tankiness": 4,
+    "mobility": 8,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "17OEyMvmbIPPANTd7HYSxC",
+    "type": "Entry",
+    "createdAt": "2021-10-14T19:37:50.752Z",
+    "updatedAt": "2021-10-14T19:37:50.752Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Rengar",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 5,
+    "disengage": 2,
+    "skirmish": 9,
+    "teamfight": 3,
+    "splitPushing": 4,
+    "earlyGame": 8,
+    "scaling": 4,
+    "utility": 2,
+    "dps": 4,
+    "burst": 10,
+    "tankiness": 3,
+    "mobility": 5,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7BRAWRSOb15kOKDLmDsoqs",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:23:08.838Z",
+    "updatedAt": "2021-10-14T17:51:37.972Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Kayn (Rhaast)",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 8,
+    "disengage": 4,
+    "skirmish": 7,
+    "teamfight": 8,
+    "splitPushing": 6,
+    "earlyGame": 2,
+    "scaling": 8,
+    "utility": 5,
+    "dps": 5,
+    "burst": 4,
+    "tankiness": 6,
+    "mobility": 7,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2lC6IVAK3KpMzHnnYCBjEC",
+    "type": "Entry",
+    "createdAt": "2021-10-14T17:42:12.639Z",
+    "updatedAt": "2021-10-14T17:42:12.639Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Rell",
+    "damageType": "AP",
+    "poke": 3,
+    "engage": 10,
+    "disengage": 2,
+    "skirmish": 6,
+    "teamfight": 8,
+    "splitPushing": 1,
+    "earlyGame": 7,
+    "scaling": 4,
+    "utility": 9,
+    "dps": 1,
+    "burst": 1,
+    "tankiness": 10,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2Ym8yWMWkOzD26mGrJcENb",
+    "type": "Entry",
+    "createdAt": "2021-10-14T17:41:44.114Z",
+    "updatedAt": "2021-10-14T17:41:44.114Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Rammus",
+    "damageType": "AP",
+    "poke": 1,
+    "engage": 9,
+    "disengage": 3,
+    "skirmish": 5,
+    "teamfight": 7,
+    "splitPushing": 1,
+    "earlyGame": 5,
+    "scaling": 5,
+    "utility": 6,
+    "dps": 3,
+    "burst": 2,
+    "tankiness": 9,
+    "mobility": 5,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5us8kmAfzamQFszqfnBGWF",
+    "type": "Entry",
+    "createdAt": "2021-10-14T17:41:20.079Z",
+    "updatedAt": "2021-10-14T17:41:20.079Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Rakan",
+    "damageType": "AP",
+    "poke": 3,
+    "engage": 9,
+    "disengage": 7,
+    "skirmish": 7,
+    "teamfight": 5,
+    "splitPushing": 1,
+    "earlyGame": 4,
+    "scaling": 7,
+    "utility": 8,
+    "dps": 1,
+    "burst": 3,
+    "tankiness": 3,
+    "mobility": 8,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6kRVVrpGZJh0Qfu0G0o4hK",
+    "type": "Entry",
+    "createdAt": "2021-10-14T17:40:47.020Z",
+    "updatedAt": "2021-10-14T17:40:47.020Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Quinn",
+    "damageType": "AD",
+    "poke": 7,
+    "engage": 5,
+    "disengage": 5,
+    "skirmish": 6,
+    "teamfight": 3,
+    "splitPushing": 6,
+    "earlyGame": 7,
+    "scaling": 4,
+    "utility": 4,
+    "dps": 5,
+    "burst": 6,
+    "tankiness": 1,
+    "mobility": 5,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "zRVAUbQI2W0sdsTadx4RT",
+    "type": "Entry",
+    "createdAt": "2021-10-14T17:40:04.604Z",
+    "updatedAt": "2021-10-14T17:40:04.604Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Qiyana",
+    "damageType": "AD",
+    "poke": 5,
+    "engage": 9,
+    "disengage": 6,
+    "skirmish": 7,
+    "teamfight": 3,
+    "splitPushing": 4,
+    "earlyGame": 4,
+    "scaling": 6,
+    "utility": 4,
+    "dps": 3,
+    "burst": 8,
+    "tankiness": 2,
+    "mobility": 6,
+    "top": false,
+    "jungler": true,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2AUybQLaWNn5fd8IWbnBi2",
+    "type": "Entry",
+    "createdAt": "2021-10-14T17:39:17.242Z",
+    "updatedAt": "2021-10-14T17:39:17.242Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Pyke",
+    "damageType": "AD",
+    "poke": 4,
+    "engage": 7,
+    "disengage": 1,
+    "skirmish": 8,
+    "teamfight": 7,
+    "splitPushing": 1,
+    "earlyGame": 8,
+    "scaling": 5,
+    "utility": 4,
+    "dps": 3,
+    "burst": 6,
+    "tankiness": 2,
+    "mobility": 7,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3TcLTtm6ttnONwWs3Zw5ng",
+    "type": "Entry",
+    "createdAt": "2021-10-14T17:38:50.050Z",
+    "updatedAt": "2021-10-14T17:38:50.050Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Poppy",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 6,
+    "disengage": 8,
+    "skirmish": 6,
+    "teamfight": 5,
+    "splitPushing": 6,
+    "earlyGame": 7,
+    "scaling": 5,
+    "utility": 6,
+    "dps": 2,
+    "burst": 5,
+    "tankiness": 8,
+    "mobility": 4,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2DN6jtym8X7RDPDhkXbMwV",
+    "type": "Entry",
+    "createdAt": "2021-10-14T17:37:27.527Z",
+    "updatedAt": "2021-10-14T17:37:27.527Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Pantheon",
+    "damageType": "AD",
+    "poke": 4,
+    "engage": 7,
+    "disengage": 2,
+    "skirmish": 9,
+    "teamfight": 4,
+    "splitPushing": 6,
+    "earlyGame": 10,
+    "scaling": 1,
+    "utility": 3,
+    "dps": 4,
+    "burst": 7,
+    "tankiness": 5,
+    "mobility": 5,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4PF3xQagNNs1EB7clidA3C",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:09:45.189Z",
+    "updatedAt": "2021-10-14T17:35:25.156Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Graves",
+    "damageType": "AD",
+    "poke": 6,
+    "engage": 6,
+    "disengage": 7,
+    "skirmish": 7,
+    "teamfight": 5,
+    "splitPushing": 6,
+    "earlyGame": 5,
+    "scaling": 7,
+    "utility": 3,
+    "dps": 5,
+    "burst": 7,
+    "tankiness": 5,
+    "mobility": 7,
+    "top": true,
+    "jungler": true,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6VGXAvJxfdjawTe2UNPIRD",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:12:31.527Z",
+    "updatedAt": "2021-10-14T17:29:47.029Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Illaoi",
+    "damageType": "AD",
+    "poke": 4,
+    "engage": 10,
+    "disengage": 5,
+    "skirmish": 9,
+    "teamfight": 7,
+    "splitPushing": 7,
+    "earlyGame": 6,
+    "scaling": 3,
+    "utility": 2,
+    "dps": 4,
+    "burst": 6,
+    "tankiness": 6,
+    "mobility": 1,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2SzuemWCRDiz6jTMMPPuBI",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:39:03.028Z",
+    "updatedAt": "2021-10-14T16:13:38.970Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Vi",
+    "damageType": "AD",
+    "poke": 3,
+    "engage": 8,
+    "disengage": 4,
+    "skirmish": 8,
+    "teamfight": 7,
+    "splitPushing": 6,
+    "earlyGame": 6,
+    "scaling": 6,
+    "utility": 6,
+    "dps": 7,
+    "burst": 4,
+    "tankiness": 5,
+    "mobility": 7,
+    "top": true,
+    "jungler": true,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "60OrE7dBGNPfzoucBFE8jR",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:38:26.647Z",
+    "updatedAt": "2021-10-14T00:38:26.647Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Soraka",
+    "damageType": "AP",
+    "poke": 8,
+    "engage": 8,
+    "disengage": 6,
+    "skirmish": 2,
+    "teamfight": 9,
+    "splitPushing": 1,
+    "earlyGame": 4,
+    "scaling": 8,
+    "utility": 9,
+    "dps": 1,
+    "burst": 1,
+    "tankiness": 1,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "71sdYzRQlDkZGH7R0u2Gui",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:38:05.161Z",
+    "updatedAt": "2021-10-14T00:38:05.161Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Sona",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 7,
+    "disengage": 7,
+    "skirmish": 2,
+    "teamfight": 9,
+    "splitPushing": 1,
+    "earlyGame": 4,
+    "scaling": 8,
+    "utility": 10,
+    "dps": 1,
+    "burst": 3,
+    "tankiness": 1,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2KRb9vmmY6uIDos1rVB1si",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:36:50.274Z",
+    "updatedAt": "2021-10-14T00:36:50.274Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Vayne",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 7,
+    "disengage": 9,
+    "skirmish": 8,
+    "teamfight": 6,
+    "splitPushing": 5,
+    "earlyGame": 3,
+    "scaling": 10,
+    "utility": 4,
+    "dps": 9,
+    "burst": 8,
+    "tankiness": 2,
+    "mobility": 6,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4JhjYSodfZjDI5JWBMvDmD",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:35:05.821Z",
+    "updatedAt": "2021-10-14T00:35:05.821Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Olaf",
+    "damageType": "AD",
+    "poke": 3,
+    "engage": 8,
+    "disengage": 3,
+    "skirmish": 5,
+    "teamfight": 6,
+    "splitPushing": 6,
+    "earlyGame": 7,
+    "scaling": 4,
+    "utility": 3,
+    "dps": 6,
+    "burst": 5,
+    "tankiness": 6,
+    "mobility": 2,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4yr9Ke1t8qjtza2sZuC1b4",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:34:16.242Z",
+    "updatedAt": "2021-10-14T00:34:16.242Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Nocturne",
+    "damageType": "AD",
+    "poke": 3,
+    "engage": 8,
+    "disengage": 2,
+    "skirmish": 7,
+    "teamfight": 4,
+    "splitPushing": 7,
+    "earlyGame": 5,
+    "scaling": 7,
+    "utility": 5,
+    "dps": 6,
+    "burst": 6,
+    "tankiness": 2,
+    "mobility": 5,
+    "top": true,
+    "jungler": true,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "73CeM5jQkBVGBIaSA3kJBE",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:33:47.764Z",
+    "updatedAt": "2021-10-14T00:33:47.764Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Nidalee",
+    "damageType": "AP",
+    "poke": 9,
+    "engage": 4,
+    "disengage": 5,
+    "skirmish": 9,
+    "teamfight": 3,
+    "splitPushing": 5,
+    "earlyGame": 9,
+    "scaling": 6,
+    "utility": 2,
+    "dps": 5,
+    "burst": 8,
+    "tankiness": 2,
+    "mobility": 6,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6ArLG8spqqbE7RsVUvIe6J",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:33:21.902Z",
+    "updatedAt": "2021-10-14T00:33:21.902Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Neeko",
+    "damageType": "AP",
+    "poke": 6,
+    "engage": 9,
+    "disengage": 6,
+    "skirmish": 5,
+    "teamfight": 7,
+    "splitPushing": 4,
+    "earlyGame": 5,
+    "scaling": 6,
+    "utility": 4,
+    "dps": 3,
+    "burst": 9,
+    "tankiness": 2,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "46ESwzzAQtxLYNcdmrnZt",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:32:30.479Z",
+    "updatedAt": "2021-10-14T00:32:30.479Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Nasus",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 6,
+    "disengage": 2,
+    "skirmish": 7,
+    "teamfight": 4,
+    "splitPushing": 10,
+    "earlyGame": 2,
+    "scaling": 9,
+    "utility": 5,
+    "dps": 3,
+    "burst": 7,
+    "tankiness": 7,
+    "mobility": 1,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5Up2EMYvDpygDHqhwmvGBd",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:31:53.902Z",
+    "updatedAt": "2021-10-14T00:31:58.124Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Morgana",
+    "damageType": "AP",
+    "poke": 9,
+    "engage": 5,
+    "disengage": 9,
+    "skirmish": 5,
+    "teamfight": 6,
+    "splitPushing": 3,
+    "earlyGame": 6,
+    "scaling": 6,
+    "utility": 5,
+    "dps": 5,
+    "burst": 5,
+    "tankiness": 3,
+    "mobility": 1,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4cyAvjUwCbrvwoENIbGWLM",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:31:22.700Z",
+    "updatedAt": "2021-10-14T00:31:22.700Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Mordekaiser",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 5,
+    "disengage": 5,
+    "skirmish": 8,
+    "teamfight": 4,
+    "splitPushing": 6,
+    "earlyGame": 4,
+    "scaling": 7,
+    "utility": 2,
+    "dps": 5,
+    "burst": 6,
+    "tankiness": 7,
+    "mobility": 1,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4apYPpGHNXMFvqlBsiF6U0",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:30:09.289Z",
+    "updatedAt": "2021-10-14T00:30:09.289Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Master Yi",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 8,
+    "disengage": 3,
+    "skirmish": 7,
+    "teamfight": 5,
+    "splitPushing": 8,
+    "earlyGame": 2,
+    "scaling": 10,
+    "utility": 1,
+    "dps": 9,
+    "burst": 7,
+    "tankiness": 3,
+    "mobility": 7,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "609ydUdoysf4BAgMjaC8Ie",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:27:22.534Z",
+    "updatedAt": "2021-10-14T00:27:22.534Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Malzahar",
+    "damageType": "AP",
+    "poke": 7,
+    "engage": 6,
+    "disengage": 8,
+    "skirmish": 4,
+    "teamfight": 6,
+    "splitPushing": 4,
+    "earlyGame": 3,
+    "scaling": 8,
+    "utility": 5,
+    "dps": 7,
+    "burst": 3,
+    "tankiness": 2,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "SPRNSsogsAHtZc0EdT59Z",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:26:44.739Z",
+    "updatedAt": "2021-10-14T00:26:44.739Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Lissandra",
+    "damageType": "AP",
+    "poke": 4,
+    "engage": 7,
+    "disengage": 6,
+    "skirmish": 5,
+    "teamfight": 8,
+    "splitPushing": 3,
+    "earlyGame": 3,
+    "scaling": 6,
+    "utility": 6,
+    "dps": 3,
+    "burst": 7,
+    "tankiness": 6,
+    "mobility": 4,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "FWJUJkVUbEMEhQ1Wq8JZK",
+    "type": "Entry",
+    "createdAt": "2021-10-13T01:16:07.641Z",
+    "updatedAt": "2021-10-14T00:26:11.421Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Leona",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 10,
+    "disengage": 4,
+    "skirmish": 4,
+    "teamfight": 8,
+    "splitPushing": 1,
+    "earlyGame": 8,
+    "scaling": 5,
+    "utility": 9,
+    "dps": 2,
+    "burst": 3,
+    "tankiness": 9,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "voJG4Kg5iUGFfzFDhHh7g",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:25:20.114Z",
+    "updatedAt": "2021-10-14T00:25:20.114Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Leblanc",
+    "damageType": "AP",
+    "poke": 3,
+    "engage": 5,
+    "disengage": 6,
+    "skirmish": 7,
+    "teamfight": 4,
+    "splitPushing": 3,
+    "earlyGame": 7,
+    "scaling": 4,
+    "utility": 4,
+    "dps": 2,
+    "burst": 9,
+    "tankiness": 2,
+    "mobility": 8,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "388qrvtlcA5EBoTklnSU8H",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:24:17.144Z",
+    "updatedAt": "2021-10-14T00:24:17.144Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Kog'maw",
+    "damageType": "Mixed",
+    "poke": 5,
+    "engage": 6,
+    "disengage": 9,
+    "skirmish": 2,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 4,
+    "scaling": 10,
+    "utility": 2,
+    "dps": 10,
+    "burst": 2,
+    "tankiness": 2,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7kJDJpceFHtJWaAkptBTw1",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:22:31.097Z",
+    "updatedAt": "2021-10-14T00:23:17.435Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Kayn (Blue)",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 8,
+    "disengage": 2,
+    "skirmish": 9,
+    "teamfight": 4,
+    "splitPushing": 4,
+    "earlyGame": 2,
+    "scaling": 7,
+    "utility": 3,
+    "dps": 3,
+    "burst": 8,
+    "tankiness": 3,
+    "mobility": 9,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5L26cSjdDdBED6ZuAi0YhY",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:21:58.678Z",
+    "updatedAt": "2021-10-14T00:21:58.678Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Katarina",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 9,
+    "disengage": 4,
+    "skirmish": 6,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 3,
+    "scaling": 6,
+    "utility": 1,
+    "dps": 3,
+    "burst": 8,
+    "tankiness": 2,
+    "mobility": 9,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "gJpEWxjl6vsQ4OAjELdd8",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:21:29.649Z",
+    "updatedAt": "2021-10-14T00:21:29.649Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Kassadin",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 8,
+    "disengage": 7,
+    "skirmish": 6,
+    "teamfight": 5,
+    "splitPushing": 4,
+    "earlyGame": 3,
+    "scaling": 10,
+    "utility": 2,
+    "dps": 3,
+    "burst": 9,
+    "tankiness": 4,
+    "mobility": 10,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4SvsqJElsO0f3tSShiqi8L",
+    "type": "Entry",
+    "createdAt": "2021-10-13T00:57:31.537Z",
+    "updatedAt": "2021-10-14T00:20:03.407Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Kai'sa",
+    "damageType": "Mixed",
+    "poke": 4,
+    "engage": 9,
+    "disengage": 2,
+    "skirmish": 6,
+    "teamfight": 6,
+    "splitPushing": 3,
+    "earlyGame": 3,
+    "scaling": 9,
+    "utility": 1,
+    "dps": 6,
+    "burst": 8,
+    "tankiness": 2,
+    "mobility": 6,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3HolR2B6UVgPXtUylWPLGE",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:18:17.321Z",
+    "updatedAt": "2021-10-14T00:18:17.321Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Jinx",
+    "damageType": "AD",
+    "poke": 6,
+    "engage": 8,
+    "disengage": 4,
+    "skirmish": 2,
+    "teamfight": 8,
+    "splitPushing": 3,
+    "earlyGame": 2,
+    "scaling": 10,
+    "utility": 3,
+    "dps": 10,
+    "burst": 5,
+    "tankiness": 2,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2U5VeNkZw65EPfAMP1R7FC",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:17:01.199Z",
+    "updatedAt": "2021-10-14T00:17:01.199Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Jax",
+    "damageType": "Mixed",
+    "poke": 1,
+    "engage": 6,
+    "disengage": 4,
+    "skirmish": 9,
+    "teamfight": 5,
+    "splitPushing": 9,
+    "earlyGame": 4,
+    "scaling": 9,
+    "utility": 3,
+    "dps": 9,
+    "burst": 7,
+    "tankiness": 5,
+    "mobility": 7,
+    "top": true,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1fKxeRra8psRY7XpadCPeZ",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:16:21.632Z",
+    "updatedAt": "2021-10-14T00:16:21.632Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Janna",
+    "damageType": "AP",
+    "poke": 6,
+    "engage": 5,
+    "disengage": 10,
+    "skirmish": 6,
+    "teamfight": 6,
+    "splitPushing": 1,
+    "earlyGame": 2,
+    "scaling": 7,
+    "utility": 10,
+    "dps": 1,
+    "burst": 3,
+    "tankiness": 2,
+    "mobility": 4,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "2w1Ar7nqPoKhDsP3Hgyti8",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:15:20.693Z",
+    "updatedAt": "2021-10-14T00:15:20.693Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Jarvan IV",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 9,
+    "disengage": 3,
+    "skirmish": 7,
+    "teamfight": 6,
+    "splitPushing": 5,
+    "earlyGame": 6,
+    "scaling": 4,
+    "utility": 4,
+    "dps": 3,
+    "burst": 6,
+    "tankiness": 6,
+    "mobility": 6,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7n4KY0cGdEqKqnsSGpKwXh",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:11:15.609Z",
+    "updatedAt": "2021-10-14T00:11:15.609Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Heimerdinger",
+    "damageType": "AP",
+    "poke": 9,
+    "engage": 4,
+    "disengage": 8,
+    "skirmish": 5,
+    "teamfight": 6,
+    "splitPushing": 2,
+    "earlyGame": 3,
+    "scaling": 7,
+    "utility": 5,
+    "dps": 6,
+    "burst": 7,
+    "tankiness": 1,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4HBgGQ7k8Krj9zHLukfosh",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:10:23.689Z",
+    "updatedAt": "2021-10-14T00:10:23.689Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Hecarim",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 8,
+    "disengage": 2,
+    "skirmish": 7,
+    "teamfight": 7,
+    "splitPushing": 6,
+    "earlyGame": 6,
+    "scaling": 5,
+    "utility": 3,
+    "dps": 6,
+    "burst": 6,
+    "tankiness": 6,
+    "mobility": 6,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "13s6lpxHcJY5On7cVKSK8G",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:03:52.319Z",
+    "updatedAt": "2021-10-14T00:03:52.319Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Fizz",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 7,
+    "disengage": 4,
+    "skirmish": 8,
+    "teamfight": 4,
+    "splitPushing": 3,
+    "earlyGame": 4,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 2,
+    "burst": 8,
+    "tankiness": 2,
+    "mobility": 9,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "19LiSgFIVmjF0PR6FA3ROX",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:00:59.973Z",
+    "updatedAt": "2021-10-14T00:00:59.973Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Fiora",
+    "damageType": "AD",
+    "poke": 1,
+    "engage": 3,
+    "disengage": 3,
+    "skirmish": 10,
+    "teamfight": 2,
+    "splitPushing": 9,
+    "earlyGame": 5,
+    "scaling": 9,
+    "utility": 2,
+    "dps": 8,
+    "burst": 5,
+    "tankiness": 5,
+    "mobility": 9,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3TYB84M2ZVDqTN9ZaFj6ff",
+    "type": "Entry",
+    "createdAt": "2021-10-14T00:00:06.220Z",
+    "updatedAt": "2021-10-14T00:00:06.220Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Fiddlesticks",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 9,
+    "disengage": 7,
+    "skirmish": 4,
+    "teamfight": 8,
+    "splitPushing": 2,
+    "earlyGame": 3,
+    "scaling": 6,
+    "utility": 5,
+    "dps": 3,
+    "burst": 8,
+    "tankiness": 3,
+    "mobility": 2,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3P1pM30DUpSfYv4HRlg9eA",
+    "type": "Entry",
+    "createdAt": "2021-10-13T01:10:15.411Z",
+    "updatedAt": "2021-10-13T23:59:36.262Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Galio",
+    "damageType": "AP",
+    "poke": 4,
+    "engage": 10,
+    "disengage": 5,
+    "skirmish": 5,
+    "teamfight": 7,
+    "splitPushing": 5,
+    "earlyGame": 6,
+    "scaling": 3,
+    "utility": 8,
+    "dps": 2,
+    "burst": 5,
+    "tankiness": 7,
+    "mobility": 5,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4Lf9kkZu6sYdMjpNhGZnwY",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:59:15.353Z",
+    "updatedAt": "2021-10-13T23:59:15.353Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Evelynn",
+    "damageType": "AP",
+    "poke": 1,
+    "engage": 7,
+    "disengage": 4,
+    "skirmish": 6,
+    "teamfight": 3,
+    "splitPushing": 2,
+    "earlyGame": 2,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 3,
+    "burst": 9,
+    "tankiness": 2,
+    "mobility": 4,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "1QEl89go4Bu1dOdgJ2LfdM",
+    "type": "Entry",
+    "createdAt": "2021-10-13T01:00:18.077Z",
+    "updatedAt": "2021-10-13T23:57:49.673Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Ezreal",
+    "damageType": "Mixed",
+    "poke": 9,
+    "engage": 8,
+    "disengage": 8,
+    "skirmish": 8,
+    "teamfight": 6,
+    "splitPushing": 4,
+    "earlyGame": 5,
+    "scaling": 8,
+    "utility": 1,
+    "dps": 7,
+    "burst": 5,
+    "tankiness": 1,
+    "mobility": 6,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "gh2ot7zrStHY7g7JCNkzN",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:57:39.635Z",
+    "updatedAt": "2021-10-13T23:57:39.635Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Elise",
+    "damageType": "AP",
+    "poke": 3,
+    "engage": 5,
+    "disengage": 6,
+    "skirmish": 7,
+    "teamfight": 3,
+    "splitPushing": 4,
+    "earlyGame": 9,
+    "scaling": 3,
+    "utility": 4,
+    "dps": 4,
+    "burst": 7,
+    "tankiness": 3,
+    "mobility": 5,
+    "top": false,
+    "jungler": true,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "76es0smPVUvpwwKdqBbJSr",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:56:33.218Z",
+    "updatedAt": "2021-10-13T23:56:38.914Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Draven",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 8,
+    "disengage": 6,
+    "skirmish": 9,
+    "teamfight": 6,
+    "splitPushing": 5,
+    "earlyGame": 9,
+    "scaling": 6,
+    "utility": 2,
+    "dps": 7,
+    "burst": 8,
+    "tankiness": 3,
+    "mobility": 4,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5kpjtYSgslH07SbMmzydEn",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:55:15.615Z",
+    "updatedAt": "2021-10-13T23:55:15.615Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Cassiopeia",
+    "damageType": "AP",
+    "poke": 4,
+    "engage": 6,
+    "disengage": 9,
+    "skirmish": 5,
+    "teamfight": 6,
+    "splitPushing": 2,
+    "earlyGame": 3,
+    "scaling": 10,
+    "utility": 4,
+    "dps": 9,
+    "burst": 6,
+    "tankiness": 3,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": true,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "75Bnvnn2YgVFvPcUGgfGry",
+    "type": "Entry",
+    "createdAt": "2021-10-12T03:39:12.122Z",
+    "updatedAt": "2021-10-13T23:53:08.016Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Corki",
+    "damageType": "Mixed",
+    "poke": 6,
+    "engage": 6,
+    "disengage": 6,
+    "skirmish": 3,
+    "teamfight": 8,
+    "splitPushing": 4,
+    "earlyGame": 3,
+    "scaling": 8,
+    "utility": 3,
+    "dps": 6,
+    "burst": 8,
+    "tankiness": 2,
+    "mobility": 4,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "3gluGlT7NNm3yGIF5qHFcS",
+    "type": "Entry",
+    "createdAt": "2021-10-13T01:17:20.648Z",
+    "updatedAt": "2021-10-13T23:52:55.551Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Blitzcrank",
+    "damageType": "AP",
+    "poke": 8,
+    "engage": 7,
+    "disengage": 1,
+    "skirmish": 6,
+    "teamfight": 6,
+    "splitPushing": 1,
+    "earlyGame": 8,
+    "scaling": 3,
+    "utility": 8,
+    "dps": 1,
+    "burst": 3,
+    "tankiness": 6,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6s6GmXqd9qB5cxjXacHTNR",
+    "type": "Entry",
+    "createdAt": "2021-10-13T01:04:53.511Z",
+    "updatedAt": "2021-10-13T23:52:37.116Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 2,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Aphelios",
+    "damageType": "AD",
+    "poke": 6,
+    "engage": 7,
+    "disengage": 2,
+    "skirmish": 4,
+    "teamfight": 9,
+    "splitPushing": 2,
+    "earlyGame": 2,
+    "scaling": 9,
+    "utility": 4,
+    "dps": 9,
+    "burst": 5,
+    "tankiness": 2,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5wfQSmL7fLBMkS5A3RtoBK",
+    "type": "Entry",
+    "createdAt": "2021-10-12T03:09:10.650Z",
+    "updatedAt": "2021-10-13T23:52:20.951Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 3,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Caitlyn",
+    "damageType": "AD",
+    "poke": 9,
+    "engage": 5,
+    "disengage": 8,
+    "skirmish": 6,
+    "teamfight": 5,
+    "splitPushing": 3,
+    "earlyGame": 7,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 6,
+    "burst": 7,
+    "tankiness": 3,
+    "mobility": 4,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "7iqvzumM2DWF4zdnOzqEag",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:51:20.314Z",
+    "updatedAt": "2021-10-13T23:51:20.314Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Braum",
+    "damageType": "AP",
+    "poke": 5,
+    "engage": 7,
+    "disengage": 7,
+    "skirmish": 6,
+    "teamfight": 8,
+    "splitPushing": 1,
+    "earlyGame": 6,
+    "scaling": 4,
+    "utility": 10,
+    "dps": 2,
+    "burst": 1,
+    "tankiness": 9,
+    "mobility": 4,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4otdJ3uxuU3Fihe7mCktaW",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:41:04.278Z",
+    "updatedAt": "2021-10-13T23:41:04.278Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Brand",
+    "damageType": "AP",
+    "poke": 9,
+    "engage": 7,
+    "disengage": 3,
+    "skirmish": 4,
+    "teamfight": 5,
+    "splitPushing": 2,
+    "earlyGame": 6,
+    "scaling": 6,
+    "utility": 3,
+    "dps": 7,
+    "burst": 5,
+    "tankiness": 1,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": true
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "5LetLhxkvGdhNvU6Z8zjPi",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:40:04.670Z",
+    "updatedAt": "2021-10-13T23:40:04.670Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Azir",
+    "damageType": "AP",
+    "poke": 6,
+    "engage": 7,
+    "disengage": 8,
+    "skirmish": 6,
+    "teamfight": 8,
+    "splitPushing": 3,
+    "earlyGame": 3,
+    "scaling": 9,
+    "utility": 4,
+    "dps": 8,
+    "burst": 5,
+    "tankiness": 2,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "Ie84jTFrSethyWdiUoooT",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:37:46.099Z",
+    "updatedAt": "2021-10-13T23:37:46.099Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Aurelion Sol",
+    "damageType": "AP",
+    "poke": 5,
+    "engage": 7,
+    "disengage": 7,
+    "skirmish": 5,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 2,
+    "scaling": 9,
+    "utility": 4,
+    "dps": 7,
+    "burst": 6,
+    "tankiness": 2,
+    "mobility": 4,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "6hH8ebCgNrOwXPiTKlybUX",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:37:12.677Z",
+    "updatedAt": "2021-10-13T23:37:12.677Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Ashe",
+    "damageType": "AD",
+    "poke": 7,
+    "engage": 7,
+    "disengage": 7,
+    "skirmish": 4,
+    "teamfight": 8,
+    "splitPushing": 2,
+    "earlyGame": 5,
+    "scaling": 8,
+    "utility": 8,
+    "dps": 9,
+    "burst": 3,
+    "tankiness": 2,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": true,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4ihi7bW45Pkn3vEXV7qhIz",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:36:42.505Z",
+    "updatedAt": "2021-10-13T23:36:42.505Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Annie",
+    "damageType": "AP",
+    "poke": 3,
+    "engage": 8,
+    "disengage": 2,
+    "skirmish": 6,
+    "teamfight": 7,
+    "splitPushing": 2,
+    "earlyGame": 3,
+    "scaling": 6,
+    "utility": 5,
+    "dps": 2,
+    "burst": 9,
+    "tankiness": 3,
+    "mobility": 2,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4puCxdgGs9rVSI89ve6Ycm",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:36:18.104Z",
+    "updatedAt": "2021-10-13T23:36:18.104Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Anivia",
+    "damageType": "AP",
+    "poke": 6,
+    "engage": 3,
+    "disengage": 10,
+    "skirmish": 4,
+    "teamfight": 8,
+    "splitPushing": 3,
+    "earlyGame": 2,
+    "scaling": 9,
+    "utility": 6,
+    "dps": 3,
+    "burst": 7,
+    "tankiness": 2,
+    "mobility": 1,
+    "top": false,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "795OGQMuSXE6k8VznH2TN6",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:30:09.926Z",
+    "updatedAt": "2021-10-13T23:30:09.926Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Alistar",
+    "damageType": "AP",
+    "poke": 1,
+    "engage": 9,
+    "disengage": 4,
+    "skirmish": 7,
+    "teamfight": 7,
+    "splitPushing": 1,
+    "earlyGame": 8,
+    "scaling": 4,
+    "utility": 7,
+    "dps": 1,
+    "burst": 3,
+    "tankiness": 9,
+    "mobility": 3,
+    "top": false,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": true,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4CFuHMTt3M7N3XfLj8HWNZ",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:28:07.448Z",
+    "updatedAt": "2021-10-13T23:28:07.448Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Akali",
+    "damageType": "AP",
+    "poke": 2,
+    "engage": 7,
+    "disengage": 3,
+    "skirmish": 8,
+    "teamfight": 6,
+    "splitPushing": 5,
+    "earlyGame": 3,
+    "scaling": 7,
+    "utility": 2,
+    "dps": 5,
+    "burst": 9,
+    "tankiness": 3,
+    "mobility": 10,
+    "top": true,
+    "jungler": false,
+    "mid": true,
+    "adc": false,
+    "support": false,
+    "blindPick": false,
+    "flex": false
+    }
+    },
+    {
+    "metadata": {
+    "tags": []
+    },
+    "sys": {
+    "space": {
+    "sys": {
+    "type": "Link",
+    "linkType": "Space",
+    "id": "5o940t3dtq1j"
+    }
+    },
+    "id": "4HwEOONCu3kwCu3a7ObWVO",
+    "type": "Entry",
+    "createdAt": "2021-10-13T23:23:33.451Z",
+    "updatedAt": "2021-10-13T23:23:33.451Z",
+    "environment": {
+    "sys": {
+    "id": "master",
+    "type": "Link",
+    "linkType": "Environment"
+    }
+    },
+    "revision": 1,
+    "contentType": {
+    "sys": {
+    "type": "Link",
+    "linkType": "ContentType",
+    "id": "champData"
+    }
+    },
+    "locale": "en-US"
+    },
+    "fields": {
+    "name": "Aatrox",
+    "damageType": "AD",
+    "poke": 2,
+    "engage": 8,
+    "disengage": 4,
+    "skirmish": 7,
+    "teamfight": 6,
+    "splitPushing": 6,
+    "earlyGame": 6,
+    "scaling": 7,
+    "utility": 3,
+    "dps": 5,
+    "burst": 6,
+    "tankiness": 6,
+    "mobility": 4,
+    "top": true,
+    "jungler": false,
+    "mid": false,
+    "adc": false,
+    "support": false,
+    "blindPick": true,
+    "flex": false
+    }
+    }
+    ]
+    }

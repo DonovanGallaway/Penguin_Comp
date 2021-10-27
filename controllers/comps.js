@@ -1,0 +1,33 @@
+const express = require('express')
+const Comp = require('../models/comps')
+
+
+
+///////////////////////
+// Create router
+///////////////////////
+
+const router = express.Router()
+
+
+///////////////////////
+// Routes
+///////////////////////
+
+
+/////////////////////////////
+// Comp Routes
+/////////////////////////////
+
+router.get('/new', (req,res) =>{
+    res.render('new')
+})
+
+
+
+
+///////////////////////////////
+// Export router
+///////////////////////////////
+
+module.exports = router

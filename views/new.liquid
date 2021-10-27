@@ -1,0 +1,18 @@
+{%layout 'layout.liquid'%}
+{%block title%}
+
+{%endblock%}
+
+
+{%block content%}
+<h1>Add New Team Comp</h1>
+
+<form action='/comps' method='post'>
+    <label for="top">Top: </label><input type="text" name="top">
+    <label for="jg">Jungle: </label><input type="text" name="jg">
+    <label for="mid">Mid: </label><input type="text" name="mid">
+    <label for="adc">ADC: </label><input type="text" name="adc">
+    <label for="sup">Sup: </label><input type="text" name="sup">
+    <input type='submit' value="submit">
+</form>
+{%endblock%}
