@@ -16,16 +16,31 @@ Edit Comp - Penguin Comp
 
 <form action='/comps/{{comp._id}}?_method=PUT' method='post'>
     <label for="name">Comp Name: </label><input type='text' name='name' value="{{comp.name}}">
-    <label for="top">Top: </label><input type="text" name="top" value="{{comp.top}}">
-    <!-- <label for="top">Top: </label><select name="top">
+    <label for="top">Top: </label><select name="top">
         {%for champ in allChamps%}
-        <option value="{{champ.name}}" {%if champ.name == comp.top%}selected{%endif%}>{{champ.name}}</option>
+        <option value="{{champ}}" {%if champ == comp.top%}selected{%endif%}>{{champ}}</option>
         {%endfor%}
-    </select> -->
-    <label for="jg">Jungle: </label><input type="text" name="jg" value="{{comp.jg}}">
-    <label for="mid">Mid: </label><input type="text" name="mid" value="{{comp.mid}}">
-    <label for="adc">ADC: </label><input type="text" name="adc" value="{{comp.adc}}">
-    <label for="sup">Sup: </label><input type="text" name="sup" value="{{comp.sup}}">
+    </select>
+    <label for="jg">Jungle: </label><select name="jg">
+        {%for champ in allChamps%}
+        <option value="{{champ}}" {%if champ == comp.jg%}selected{%endif%}>{{champ}}</option>
+        {%endfor%}
+    </select>
+    <label for="mid">Mid: </label><select name="mid">
+        {%for champ in allChamps%}
+        <option value="{{champ}}" {%if champ == comp.mid%}selected{%endif%}>{{champ}}</option>
+        {%endfor%}
+    </select>
+    <label for="adc">ADC: </label><select name="adc">
+        {%for champ in allChamps%}
+        <option value="{{champ}}" {%if champ == comp.adc%}selected{%endif%}>{{champ}}</option>
+        {%endfor%}
+    </select>
+    <label for="sup">Sup: </label><select name="sup">
+        {%for champ in allChamps%}
+        <option value="{{champ}}" {%if champ == comp.sup %}selected{%endif%}>{{champ}}</option>
+        {%endfor%}
+    </select>
     <input type='submit' value="submit">
 </form>
 <form action='/comps/{{comp._id}}?_method=DELETE' method='post'>

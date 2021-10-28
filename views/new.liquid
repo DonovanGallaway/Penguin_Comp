@@ -9,11 +9,30 @@ New Comp - Penguin Comp
 
 <form action='/comps' method='post'>
     <label for="name">Comp Name: </label><input type='text' name='name'>
-    <label for="top">Top: </label><input type="text" name="top">
-    <label for="jg">Jungle: </label><input type="text" name="jg">
-    <label for="mid">Mid: </label><input type="text" name="mid">
-    <label for="adc">ADC: </label><input type="text" name="adc">
-    <label for="sup">Sup: </label><input type="text" name="sup">
-    <input type='submit' value="submit">
+    <label for="top">Top: </label><select name="top">
+        {%for champ in allChamps%}
+        <option value="{{champ}}">{{champ}}</option>
+        {%endfor%}
+    </select>
+    <label for="jg">Jungle: </label><select name="jg">
+        {%for champ in allChamps%}
+        <option value="{{champ}}">{{champ}}</option>
+        {%endfor%}
+    </select>
+    <label for="mid">Mid: </label><select name="mid">
+        {%for champ in allChamps%}
+        <option value="{{champ}}">{{champ}}</option>
+        {%endfor%}
+    </select>
+    <label for="adc">ADC: </label><select name="adc">
+        {%for champ in allChamps%}
+        <option value="{{champ}}">{{champ}}</option>
+        {%endfor%}
+    </select>
+    <label for="sup">Sup: </label><select name="sup">
+        {%for champ in allChamps%}
+        <option value="{{champ}}">{{champ}}</option>
+        {%endfor%}
+    </select>
 </form>
 {%endblock%}

@@ -22,7 +22,15 @@ const router = express.Router()
 
 // New Route
 router.get('/new', (req,res) =>{
-    res.render('new')
+    res.render('new', {
+        topChamps: champs.topChamps,
+        jgChamps: champs.jgChamps,
+        midChamps: champs.midChamps,
+        botChamps: champs.botChamps,
+        supChamps: champs.supChamps,
+        allChamps: Object.keys(champs.allChamps).sort()
+
+    })
 })
 
 // Create Route
@@ -57,9 +65,9 @@ router.get('/:id', (req,res) =>{
             adc: champs.allChamps[comp.adc],
             sup: champs.allChamps[comp.sup]
         }
-        console.log(compData)
+        // console.log(compData)
         const stats = teamCalc(compData)
-        console.log(stats)
+        // console.log(stats)
         res.render('show', {comp, compData, stats})
     })
 })
@@ -75,7 +83,7 @@ router.get('/:id/edit', (req,res) =>{
             midChamps: champs.midChamps,
             botChamps: champs.botChamps,
             supChamps: champs.supChamps,
-            allChamps: champs.allChamps
+            allChamps: Object.keys(champs.allChamps).sort()
 
         })
     }).catch((error) => res.json(error))

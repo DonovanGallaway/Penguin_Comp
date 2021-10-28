@@ -15,6 +15,7 @@ const teamCalc = (comp) => { // comp is an object
     stats.engage = statAdd("engage")
     stats.disengage = statAdd("disengage")
     stats.skirmish = statAdd("skirmish")
+    stats.teamfight = statAdd("teamfight")
     stats.splitPushing = statAdd("splitPushing")
     stats.earlyGame = statAdd("earlyGame")
     stats.scaling = statAdd("scaling")
