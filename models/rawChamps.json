@@ -150,7 +150,7 @@
     "locale": "en-US"
     },
     "fields": {
-    "name": "Vel'koz",
+    "name": "Velkoz",
     "damageType": "AP",
     "poke": 10,
     "engage": 6,
@@ -1542,7 +1542,7 @@
     "locale": "en-US"
     },
     "fields": {
-    "name": "Rek'sai",
+    "name": "RekSai",
     "damageType": "AD",
     "poke": 2,
     "engage": 8,
@@ -2470,7 +2470,7 @@
     "locale": "en-US"
     },
     "fields": {
-    "name": "Kha'zix",
+    "name": "Khazix",
     "damageType": "AD",
     "poke": 4,
     "engage": 5,
@@ -3398,7 +3398,7 @@
     "locale": "en-US"
     },
     "fields": {
-    "name": "Dr. Mundo",
+    "name": "Dr Mundo",
     "damageType": "Mixed",
     "poke": 6,
     "engage": 6,
@@ -5660,7 +5660,7 @@
     "locale": "en-US"
     },
     "fields": {
-    "name": "Kayn (Rhaast)",
+    "name": "Rhaast",
     "damageType": "AD",
     "poke": 2,
     "engage": 8,
@@ -7226,7 +7226,7 @@
     "locale": "en-US"
     },
     "fields": {
-    "name": "Kog'maw",
+    "name": "KogMaw",
     "damageType": "Mixed",
     "poke": 5,
     "engage": 6,
@@ -7458,7 +7458,7 @@
     "locale": "en-US"
     },
     "fields": {
-    "name": "Kai'sa",
+    "name": "Kaisa",
     "damageType": "Mixed",
     "poke": 4,
     "engage": 9,

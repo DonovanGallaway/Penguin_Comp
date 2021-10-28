@@ -1,0 +1,40 @@
+{%layout 'layout.liquid'%}
+{%block title%}
+{{comp.name}} - Penguin Comp
+{%endblock%}
+
+
+{%block content%}
+<style>
+    body{
+        text-align: center;
+    }
+    .comp-pics{
+        margin: auto;
+    }
+</style>
+<h1>User Comp - {{comp.name}}</h1>
+<a href='/comps/{{comp._id}}/edit'>Edit Team Comp</a><br/>
+<a href='/comps'>Back to Index</a>
+<div class="comp-pics">
+<img src="/assets/tiles/{{comp.top}}.png" alt={{comp.top}}>
+<img src="/assets/tiles/{{comp.jg}}.png" alt={{comp.jg}}>
+<img src="/assets/tiles/{{comp.mid}}.png" alt={{comp.mid}}>
+<img src="/assets/tiles/{{comp.adc}}.png" alt={{comp.adc}}>
+<img src="/assets/tiles/{{comp.sup}}.png" alt={{comp.sup}}>
+</div>
+<ul>
+    <li>poke: {{stats.poke}}</li>
+    <li>engage: {{stats.engage}}</li>
+    <li>disengage: {{stats.disengage}}</li>
+    <li>skirmish: {{stats.skirmish}}</li>
+    <li>splitPushing: {{stats.splitPushing}}</li>
+    <li>earlyGame: {{stats.earlyGame}}</li>
+    <li>scaling: {{stats.scaling}}</li>
+    <li>utility: {{stats.utility}}</li>
+    <li>dps: {{stats.dps}}</li>
+    <li>burst: {{stats.burst}}</li>
+    <li>tankiness: {{stats.tankiness}}</li>
+    <li>mobility: {{stats.mobility}}</li>
+</ul>
+{%endblock%}

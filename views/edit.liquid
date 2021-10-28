@@ -1,0 +1,34 @@
+{%layout 'layout.liquid'%}
+{%block title%}
+Edit Comp - Penguin Comp
+{%endblock%}
+
+
+{%block content%}
+<style>
+    #delete-button{
+        background-color: red;
+        border: none;
+    }
+</style>
+<h1>Add New Team Comp</h1>
+<a href='/comps/{{comp._id}}'>Back to Comp</a>
+
+<form action='/comps/{{comp._id}}?_method=PUT' method='post'>
+    <label for="name">Comp Name: </label><input type='text' name='name' value="{{comp.name}}">
+    <label for="top">Top: </label><input type="text" name="top" value="{{comp.top}}">
+    <!-- <label for="top">Top: </label><select name="top">
+        {%for champ in allChamps%}
+        <option value="{{champ.name}}" {%if champ.name == comp.top%}selected{%endif%}>{{champ.name}}</option>
+        {%endfor%}
+    </select> -->
+    <label for="jg">Jungle: </label><input type="text" name="jg" value="{{comp.jg}}">
+    <label for="mid">Mid: </label><input type="text" name="mid" value="{{comp.mid}}">
+    <label for="adc">ADC: </label><input type="text" name="adc" value="{{comp.adc}}">
+    <label for="sup">Sup: </label><input type="text" name="sup" value="{{comp.sup}}">
+    <input type='submit' value="submit">
+</form>
+<form action='/comps/{{comp._id}}?_method=DELETE' method='post'>
+    <input type='submit' value='Delete Comp' id='delete-button'>
+</form>
+{%endblock%}

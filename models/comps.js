@@ -9,6 +9,7 @@ const {Schema, model} = mongoose
 // make Team Schema
 
 const teamSchema = new Schema({
+    name: String,
     top: String,
     jg: String,
     mid: String,

@@ -1,6 +1,6 @@
 {%layout 'layout.liquid'%}
 {%block title%}
-
+New Comp - Penguin Comp
 {%endblock%}
 
 
@@ -8,6 +8,7 @@
 <h1>Add New Team Comp</h1>
 
 <form action='/comps' method='post'>
+    <label for="name">Comp Name: </label><input type='text' name='name'>
     <label for="top">Top: </label><input type="text" name="top">
     <label for="jg">Jungle: </label><input type="text" name="jg">
     <label for="mid">Mid: </label><input type="text" name="mid">
