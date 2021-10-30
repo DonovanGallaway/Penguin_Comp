@@ -6,11 +6,12 @@ const teamCalc = (comp) => { // comp is an object
         total += comp.mid[stat]
         total += comp.adc[stat]
         total += comp.sup[stat]
-        return total
+        return total/5
     }
     
-    const stats = {}
-    
+    const stats = {
+    }
+
     stats.poke = statAdd("poke")
     stats.engage = statAdd("engage")
     stats.disengage = statAdd("disengage")

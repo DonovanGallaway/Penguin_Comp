@@ -9,7 +9,7 @@ Penguin Comp - All Comps
 <h2><a href='/comps/new'>New Comp</a></h2>
 {%for comp in comps%}
 <div class="comp">
-<a href='/comps/{{comp._id}}'><h4>{{comp.name}}</h4></a>
+<a href='/comps/{{comp._id}}'><h4>{{comp.name}}{%if comp.name==""%}Nameless{%endif%}</h4></a>
 <img src="/assets/tiles/{{comp.top}}.png" alt={{comp.top}}>
 <img src="/assets/tiles/{{comp.jg}}.png" alt={{comp.jg}}>
 <img src="/assets/tiles/{{comp.mid}}.png" alt={{comp.mid}}>
