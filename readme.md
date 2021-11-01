@@ -3,25 +3,23 @@
 
 ## Project Summary
 
-My project is definitely on the ambitious side in terms of final build, but is essentially a full-CRUD app that allows a user to put together lists of their favorite champions, as well as team compositions. This is pretty simple and I'll probably have it running by the end of Day 1, but the trick comes into the next part:
+My project is definitely on the ambitious side in terms of final build, but is essentially a full-CRUD app that allows a user to put together team compositions for League of Legends. 
 
-The app should be able to recommend other champions for a team composition based on user criteria, and eventually generated automatically based on already selected champions/enemy champions.
+The app is be able to recommend other champions for a team composition, generated automatically based on already selected champions. In the future, this can be expanded to include enemy champions selected.
 
-![Visual Mockup of Later-Stage App](/test/mockup.png)
+![Visual of Team Builder](https://media.discordapp.net/attachments/294674217075474432/904712933676822548/unknown.png)
 
-I already have Riot Games' "Data Dragon," a collection of game assets, and a hard-coded set of criteria about each champion put together by myself and a League-playing friend of mine. I have a Riot API Dev Key to make calls in the app (at least for testing), though I don't think I need it for the project iterations.
-
-**However, MVP is just the team compositions and I will work on that first**
+I have Riot Games' "Data Dragon" (a collection of game assets), and have a hard-coded set of criteria about each champion put together by myself and a League-playing friend of mine. I have a Riot API Dev Key to make calls in the app (at least for testing), though I don't think I need it for the project iterations.
 
 ## Models
 
 For the simple build, there will be a team composition model:
 
-- Top Laner ([{name: String, img: String}])
-- Jungler ([{name: String, img: String}])
-- Mid Laner ([{name: String, img: String}])
-- AD Carry ([{name: String, img: String}])
-- Support ([{name: String, img: String}])
+- Top Laner ([{name: String}])
+- Jungler ([{name: String}])
+- Mid Laner ([{name: String}])
+- AD Carry ([{name: String}])
+- Support ([{name: String}])
 
 The model used for Champion Data is as follows (already done):
 
@@ -80,11 +78,32 @@ Here are the basic routes for the MVP, though these will expand to a fair degree
 
 ## Challenges
 
-None yet!
+Oh boy, where do I start?
+
+The first hurdle was just in terms of project scale and my own vision for it. Breaking this down into exact steps to avoid giving myself a panic attack was the first major step.
+
+Another hill to climb was in getting champion names with special characters to render the corresponding images correctly. This was handled by handling the file names of the erring champions, since the champions are (relatively) static or change every couple of weeks at the absolute most.
+
+Finally, in terms of things which directly impeded me, the biggest was the use of the "this" object in jQuery. For example
+
+```js
+$('#thing').on('click', function(){
+    console.log(this)
+})
+```
+
+returns "this" being undefined. The solution is that there is a *jQuery this*.
+
+```js
+$('#thing').onc('click', function(){
+    console.log($(this))
+})
+```
+
+This let me handle my elements correctly in writing some of the trickier JS.
 
 ## List of Technologies
 
-- Agile CMS (Contentful)
 - MongoDB
 - Node
 - Express
@@ -92,9 +111,13 @@ None yet!
 - CSS
 - JQuery
 
-## I'm Very Hungry For More
-I made this with the intention of being a portfolio piece, as well as a tool my friends and I will use. As such, I've already put a bit of work into it but will need to restructure to make use of Unit 2's technologies.
+## The Test Run
 
+Some of my friends and I took the program for a brief test run. While it's certainly not a statistically valid sample size, we ***stomped*** the game we played together.
+
+![Ranked Screenshot](https://media.discordapp.net/attachments/294674217075474432/904716160002572318/unknown.png)
+
+## I'm Very Hungry For More
 Eventually, this should be a very interactive application that should be actively useful for League players trying to draft a team composition, especially in coordinated play but (in a more limited range) in Solo Ranked Play.
 
 Eventually, I will add functionality to pull current-lobby data from the Riot API to dynamically recommend champions in real time with a downloaded application. I may also reach out to high-level League players and analysts to get their help in refining the champion dataset and maybe even the champion model.
