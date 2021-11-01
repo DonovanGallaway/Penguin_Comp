@@ -14,6 +14,18 @@ const router = express.Router()
 // Routes
 ///////////////////////
 
+///////////////////////////////////
+// Route Middleware
+///////////////////////////////////
+
+router.use((req,res,next) =>{
+    if (req.session.loggedIn){
+        next()
+    } else{
+        res.redirect('/user/login')
+    }
+})
+
 
 /////////////////////////////
 // Comp Routes
@@ -22,7 +34,7 @@ const router = express.Router()
 
 // New Route
 router.get('/new', (req,res) =>{
-    res.render('new', {
+    res.render('builder/new', {
         topChamps: champs.topChamps,
         jgChamps: champs.jgChamps,
         midChamps: champs.midChamps,
@@ -38,6 +50,7 @@ router.post('/', (req,res) =>{
     if (!req.body.name){
         req.body.name = "Nameless"
     }
+    req.body.username = req.session.username
     Comp.create(req.body).then((comp) =>{
         res.redirect('/comps')
     })
@@ -48,9 +61,9 @@ router.post('/', (req,res) =>{
 
 // Index route
 router.get('/', (req,res) =>{
-    Comp.find({})
+    Comp.find({username: req.session.username})
     .then((comps) =>{
-        res.render('index', {comps})
+        res.render('builder/index', {comps})
     })
     .catch((error) => res.json(error))
 })
@@ -71,7 +84,7 @@ router.get('/:id', (req,res) =>{
         // console.log(compData)
         const stats = teamCalc(compData)
         // console.log(stats)
-        res.render('show', {comp, compData, stats})
+        res.render('builder/show', {comp, compData, stats})
     })
 })
 
@@ -79,7 +92,7 @@ router.get('/:id', (req,res) =>{
 router.get('/:id/edit', (req,res) =>{
     const id = req.params.id
     Comp.findById(id).then((comp) =>{
-        res.render('edit', {
+        res.render('builder/edit', {
             comp, 
             topChamps: champs.topChamps,
             jgChamps: champs.jgChamps,

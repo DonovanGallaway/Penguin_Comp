@@ -1,42 +1,17 @@
 {%layout 'layout.liquid'%}
 {%block title%}
-Penguin Comp - All Comps
+Penguin Comp - Composition Builder
 {%endblock%}
-
-
 {%block content%}
 <style>
     body{
         text-align: center;
     }
-
-    .comp{
-        margin: auto;
-    }
-
-    .comp img{
-        max-width: 15vw;
-    }
-    .content{
-    background-color: rgba(0,0,0,0.6);
-    max-width: 50%;
-}
-@media only screen and (max-width:1200px){
-    .content{
-        max-width: 100%;
-    }
-}
 </style>
-<h1>All Team Comps</h1>
-<h2><a href='/comps/new'>New Comp</a></h2>
-{%for comp in comps%}
-<div class="comp">
-<a href='/comps/{{comp._id}}'><h4>{{comp.name}}{%if comp.name==""%}Nameless{%endif%}</h4></a>
-<img src="/assets/tiles/{{comp.top}}.png" alt={{comp.top}}>
-<img src="/assets/tiles/{{comp.jg}}.png" alt={{comp.jg}}>
-<img src="/assets/tiles/{{comp.mid}}.png" alt={{comp.mid}}>
-<img src="/assets/tiles/{{comp.adc}}.png" alt={{comp.adc}}>
-<img src="/assets/tiles/{{comp.sup}}.png" alt={{comp.sup}}>
+<h1>Welcome to Penguin Comp</h1>
+<h3>Please Signup or Login to Continue</h3>
+<div>
+    <a href="/user/signup"><button>Signup</button></a>
+    <a href="/user/login"><button>Login</button></a>
 </div>
-{%endfor%}
 {%endblock%}

@@ -14,7 +14,8 @@ const teamSchema = new Schema({
     jg: String,
     mid: String,
     adc: String,
-    sup: String
+    sup: String,
+    username: String
 })
 
 const Comp = model('Comp', teamSchema)
