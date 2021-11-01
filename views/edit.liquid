@@ -11,7 +11,7 @@ Edit Comp - Penguin Comp
 <h1>Edit Comp</h1>
 <h3><a href='/comps'>Back to Index</a></h3>
 <div id='champ-display'>
-    <form action='/comps' method='post' class="dropdowns">
+    <form action='/comps/{{comp._id}}?_method=PUT' method='post' class="dropdowns">
         <label for="name">Comp Name: </label><input type='text' name='name' value="Custom Comp">
         <label for="top">Top: </label><select name="top">
             <option value=" "></option>

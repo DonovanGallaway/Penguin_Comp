@@ -84,6 +84,8 @@ The first hurdle was just in terms of project scale and my own vision for it. Br
 
 Another hill to climb was in getting champion names with special characters to render the corresponding images correctly. This was handled by handling the file names of the erring champions, since the champions are (relatively) static or change every couple of weeks at the absolute most.
 
+CSS was a tricky thing in terms of getting it responsive, but it ended up working out fine.
+
 Finally, in terms of things which directly impeded me, the biggest was the use of the "this" object in jQuery. For example
 
 ```js
