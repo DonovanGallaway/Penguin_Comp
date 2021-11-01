@@ -38,7 +38,7 @@ app.use('/comps', CompRouter)
 
 // route
 app.get('/', (req,res) =>{
-    res.json(champs.allChamps)
+    res.redirect('/comps')
 })
 
 
