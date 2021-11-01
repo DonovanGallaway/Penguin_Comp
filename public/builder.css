@@ -1,0 +1,28 @@
+label[for="name"]{
+    display:none;
+}
+
+input[name="name"]{
+    display: none;
+}
+
+form{
+    display: flex;
+    flex-wrap: wrap;
+    width: 20vw;
+}
+
+#recommended-champs{
+    width: 75vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+#champ-display{
+    display: flex;
+    justify-content: space-around;
+}
+
+input[type='submit']{
+    margin: 0 auto;
+}

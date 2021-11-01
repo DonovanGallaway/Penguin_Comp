@@ -55,6 +55,21 @@ router.get('/', (req,res) =>{
     .catch((error) => res.json(error))
 })
 
+// Recommendations Route
+router.get('/builder', (req,res) =>{
+    res.render('builder', {
+        allChamps: Object.keys(champs.allChamps).sort(),
+        topChamps: Object.keys(champs.topChamps).sort(),
+        jgChamps: Object.keys(champs.jgChamps).sort(),
+        midChamps: Object.keys(champs.midChamps).sort(),
+        botChamps: Object.keys(champs.botChamps).sort(),
+        supChamps: Object.keys(champs.supChamps).sort(),
+        blindChamps: Object.keys(champs.blindChamps).sort(),
+        flexChamps: Object.keys(champs.blindChamps).sort()
+    })
+})
+
+
 // Show route
 router.get('/:id', (req,res) =>{
     const id = req.params.id
@@ -109,19 +124,6 @@ router.delete('/:id', (req,res) =>{
     }
 )
 
-// Recommendations Route
-router.get('/builder', (req,res) =>{
-    res.render('builder', {
-        allChamps: Object.keys(champs.allChamps).sort(),
-        topChamps: Object.keys(champs.topChamps).sort(),
-        jgChamps: Object.keys(champs.jgChamps).sort(),
-        midChamps: Object.keys(champs.midChamps).sort(),
-        botChamps: Object.keys(champs.botChamps).sort(),
-        supChamps: Object.keys(champs.supChamps).sort(),
-        blindChamps: Object.keys(champs.blindChamps).sort(),
-        flexChamps: Object.keys(champs.blindChamps).sort()
-    })
-})
 
 
 ///////////////////////////////

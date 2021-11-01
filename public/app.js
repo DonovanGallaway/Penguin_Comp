@@ -1,6 +1,6 @@
 $(document).ready( ()=>{
     $.getJSON('../rawChamps.json', (data) =>{
-        console.log(data)
+        // console.log(data)
         for (let i = 0; i < data.items.length; i++){
             const champ = data.items[i].fields
             data[champ.name] = champ

@@ -51,3 +51,17 @@
     list-style-type: none;
     padding: 0;
 }
+
+.selectors{
+    display: flex;
+    margin: auto;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 10vw;
+}
+
+.selectors div{
+    margin: 2em;
+}
