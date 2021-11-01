@@ -1,10 +1,10 @@
-label[for="name"]{
+/* label[for="name"]{
     display:none;
 }
 
 input[name="name"]{
     display: none;
-}
+} */
 
 form{
     display: flex;

@@ -81,42 +81,7 @@ const getChamps = (allChamps, champSet) =>{
 }
 
 $(document).ready(()=>{
-    $.getJSON('/rawChamps.json', (data) =>{
-        const statCheck = new Set()
-        for (let i = 0; i < data.items.length; i++){
-            const champ = data.items[i].fields
-            data[champ.name] = champ
-        }
-        // console.log(statCheck)
-        // console.log(data.items)
-        // statCheck.forEach((value)=>{
-        //     const champ = value.name
-        //     console.log(champ)
-        // })
-        const champRecs = getChamps(data, statCheck)
-        $('#top-recs').empty()
-        $('#jungle-recs').empty()
-        $('#mid-recs').empty()
-        $('#bot-recs').empty()
-        $('#sup-recs').empty()
-        $('#blind-recs').empty()
-        $('#flex-recs').empty()                
-        for (let i=0; i<10; i++){
-            $('#blind-recs').append($('<li>').text(champRecs.blindRecs[i].fields.name))
-        }
-    })
-})
-
-
-$('.stat-button').each(function(index){
-    $(this).on('click', ()=>{
-        console.log($(this).attr('stat'))
-    })
-})
-
-$('select').each(function(){
-    $(this).change(()=>{
-        $('select option:selected').each(function(){
+    $('select option:selected').each(function(){
         if($(this).text())
             $.getJSON('/rawChamps.json', (data) =>{
                 const statCheck = new Set()
@@ -152,5 +117,11 @@ $('select').each(function(){
             })
             
         })
+})
+
+
+$('.stat-button').each(function(index){
+    $(this).on('click', ()=>{
+        console.log($(this).attr('stat'))
     })
 })

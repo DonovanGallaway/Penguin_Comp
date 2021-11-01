@@ -2,48 +2,79 @@
 {%block title%}
 Edit Comp - Penguin Comp
 {%endblock%}
-
+{%block otherScripts%}
+<link rel="stylesheet" href="/builder.css">
+<script src="/recommendEdit.js" defer></script>
+{%endblock%}
 
 {%block content%}
-<style>
-    #delete-button{
-        background-color: red;
-        border: none;
-    }
-</style>
-<h1>Add New Team Comp</h1>
-<a href='/comps/{{comp._id}}'>Back to Comp</a>
-
-<form action='/comps/{{comp._id}}?_method=PUT' method='post'>
-    <label for="name">Comp Name: </label><input type='text' name='name' value="{{comp.name}}">
-    <label for="top">Top: </label><select name="top">
-        {%for champ in allChamps%}
-        <option value="{{champ}}" {%if champ == comp.top%}selected{%endif%}>{{champ}}</option>
-        {%endfor%}
-    </select>
-    <label for="jg">Jungle: </label><select name="jg">
-        {%for champ in allChamps%}
-        <option value="{{champ}}" {%if champ == comp.jg%}selected{%endif%}>{{champ}}</option>
-        {%endfor%}
-    </select>
-    <label for="mid">Mid: </label><select name="mid">
-        {%for champ in allChamps%}
-        <option value="{{champ}}" {%if champ == comp.mid%}selected{%endif%}>{{champ}}</option>
-        {%endfor%}
-    </select>
-    <label for="adc">ADC: </label><select name="adc">
-        {%for champ in allChamps%}
-        <option value="{{champ}}" {%if champ == comp.adc%}selected{%endif%}>{{champ}}</option>
-        {%endfor%}
-    </select>
-    <label for="sup">Sup: </label><select name="sup">
-        {%for champ in allChamps%}
-        <option value="{{champ}}" {%if champ == comp.sup %}selected{%endif%}>{{champ}}</option>
-        {%endfor%}
-    </select>
-    <input type='submit' value="submit">
-</form>
-<form action='/comps/{{comp._id}}?_method=DELETE' method='post'>
-    <input type='submit' value='Delete Comp' id='delete-button'>
-</form>
+<h1>Edit Comp</h1>
+<h3><a href='/comps'>Back to Index</a></h3>
+<div id='champ-display'>
+    <form action='/comps' method='post' class="dropdowns">
+        <label for="name">Comp Name: </label><input type='text' name='name' value="Custom Comp">
+        <label for="top">Top: </label><select name="top">
+            <option value=" "></option>
+            {%for champ in allChamps%}
+            <option value="{{champ}}" {%if champ == comp.top%}selected{%endif%}>{{champ}}</option>
+            {%endfor%}
+        </select>
+        <label for="jg">Jungle: </label><select name="jg">
+            <option value=" "></option>
+            {%for champ in allChamps%}
+            <option value="{{champ}}" {%if champ == comp.jg%}selected{%endif%}>{{champ}}</option>
+            {%endfor%}
+        </select>
+        <label for="mid">Mid: </label><select name="mid">
+            <option value=" "></option>
+            {%for champ in allChamps%}
+            <option value="{{champ}}" {%if champ == comp.mid%}selected{%endif%}>{{champ}}</option>
+            {%endfor%}
+        </select>
+        <label for="adc">ADC: </label><select name="adc">
+            <option value=" "></option>
+            {%for champ in allChamps%}
+            <option value="{{champ}}" {%if champ == comp.adc%}selected{%endif%}>{{champ}}</option>
+            {%endfor%}
+        </select>
+        <label for="sup">Sup: </label><select name="sup">
+            <option value=" "></option>
+            {%for champ in allChamps%}
+            <option value="{{champ}}" {%if champ == comp.sup%}selected{%endif%}>{{champ}}</option>
+            {%endfor%}
+        </select>
+        <input type='submit' value='Submit'>
+    </form>
+    
+    <div id='recommended-champs'>
+        <div>
+        <h5>Top Champs:</h5>
+        <ul id='top-recs'></ul>
+        </div>
+        <div>
+        <h5>Jungle Champs:</h5>
+        <ul id='jungle-recs'></ul>
+        </div>
+        <div>
+        <h5>Mid Champs:</h5>
+        <ul id='mid-recs'></ul>
+        </div>
+        <div>
+        <h5>Bot Champs:</h5>
+        <ul id='bot-recs'></ul>
+        </div>
+        <div>
+        <h5>Sup Champs:</h5>
+        <ul id='sup-recs'></ul>
+        </div>
+        <div>
+        <h5>Blind Champs:</h5>
+        <ul id='blind-recs'></ul>
+        </div>
+        <div>
+        <h5>Flex Champs:</h5>
+        <ul id='flex-recs'></ul>
+        </div>
+    </div>
+    </div>
 {%endblock%}

@@ -1,39 +1,82 @@
 {%layout 'layout.liquid'%}
 {%block title%}
-New Comp - Penguin Comp
+Penguin Comp - Composition Builder
 {%endblock%}
 
+{%block otherScripts%}
+<link rel="stylesheet" href="/builder.css">
+<script src="/recommend.js" defer></script>
+{%endblock%}
 
 {%block content%}
-<h1>Add New Team Comp</h1>
-
-<form action='/comps' method='post'>
-    <label for="name">Comp Name: </label><input type='text' name='name'>
+<h1>New Team Comp</h1>
+<h3><a href='/comps'>Back to Index</a></h3>
+<div id='champ-display'>
+<form action='/comps' method='post' class="dropdowns">
+    <label for="name">Comp Name: </label><input type='text' name='name' placeholder="Enter Name">
     <label for="top">Top: </label><select name="top">
+        <option value=" "></option>
         {%for champ in allChamps%}
         <option value="{{champ}}">{{champ}}</option>
         {%endfor%}
     </select>
     <label for="jg">Jungle: </label><select name="jg">
+        <option value=" "></option>
         {%for champ in allChamps%}
         <option value="{{champ}}">{{champ}}</option>
         {%endfor%}
     </select>
     <label for="mid">Mid: </label><select name="mid">
+        <option value=" "></option>
         {%for champ in allChamps%}
         <option value="{{champ}}">{{champ}}</option>
         {%endfor%}
     </select>
     <label for="adc">ADC: </label><select name="adc">
+        <option value=" "></option>
         {%for champ in allChamps%}
         <option value="{{champ}}">{{champ}}</option>
         {%endfor%}
     </select>
     <label for="sup">Sup: </label><select name="sup">
+        <option value=" "></option>
         {%for champ in allChamps%}
         <option value="{{champ}}">{{champ}}</option>
         {%endfor%}
     </select>
     <input type='submit' value='Submit'>
 </form>
+
+<div id='recommended-champs'>
+    <div>
+    <h5>Top Champs:</h5>
+    <ul id='top-recs'></ul>
+    </div>
+    <div>
+    <h5>Jungle Champs:</h5>
+    <ul id='jungle-recs'></ul>
+    </div>
+    <div>
+    <h5>Mid Champs:</h5>
+    <ul id='mid-recs'></ul>
+    </div>
+    <div>
+    <h5>Bot Champs:</h5>
+    <ul id='bot-recs'></ul>
+    </div>
+    <div>
+    <h5>Sup Champs:</h5>
+    <ul id='sup-recs'></ul>
+    </div>
+    <div>
+    <h5>Blind Champs:</h5>
+    <ul id='blind-recs'></ul>
+    </div>
+    <div>
+    <h5>Flex Champs:</h5>
+    <ul id='flex-recs'></ul>
+    </div>
+</div>
+</div>
+
 {%endblock%}

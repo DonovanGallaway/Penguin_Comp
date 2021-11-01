@@ -65,3 +65,9 @@
 .selectors div{
     margin: 2em;
 }
+
+#delete-btn{
+    background-color: red;
+    margin: auto 0;
+    border: none;
+}
