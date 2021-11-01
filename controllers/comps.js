@@ -65,7 +65,7 @@ router.get('/builder', (req,res) =>{
         botChamps: Object.keys(champs.botChamps).sort(),
         supChamps: Object.keys(champs.supChamps).sort(),
         blindChamps: Object.keys(champs.blindChamps).sort(),
-        flexChamps: Object.keys(champs.blindChamps).sort()
+        flexChamps: Object.keys(champs.flexChamps).sort()
     })
 })
 
