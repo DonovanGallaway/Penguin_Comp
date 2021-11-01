@@ -5,6 +5,28 @@ Penguin Comp - All Comps
 
 
 {%block content%}
+<style>
+    body{
+        text-align: center;
+    }
+
+    .comp{
+        margin: auto;
+    }
+
+    .comp img{
+        max-width: 15vw;
+    }
+    .content{
+    background-color: rgba(0,0,0,0.6);
+    max-width: 50%;
+}
+@media only screen and (max-width:1200px){
+    .content{
+        max-width: 100%;
+    }
+}
+</style>
 <h1>All Team Comps</h1>
 <h2><a href='/comps/new'>New Comp</a></h2>
 {%for comp in comps%}

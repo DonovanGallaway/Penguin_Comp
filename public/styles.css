@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Scheherazade+New&display=swap');
+
+body{
+    background-image: url('https://1.bp.blogspot.com/-p21Z0LKHRBo/YGilRpXalNI/AAAAAAABJYQ/nO8JCKOpxfIDAaW0yokZj8A6IPx8vKxyACLcBGAsYHQ/s2048/EyD_b4BW8AUk9hg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Playfair Display', serif;
+    /* font-family: 'Scheherazade New', serif; */
+}
+
+a{
+    color: white;
+    text-decoration: underline;
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+}
+
 .modal{
     display: none;
     position: fixed;
@@ -15,11 +35,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #fefefe;
+    background-color: black;
     margin: 15% auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 40%
+    width: 90vw;
+    font-size: 1em;
+}
+
+.modal-content *{
+    margin: 10px;
 }
 
 .close{
@@ -40,11 +65,11 @@
 
 .one-champ{
     cursor: pointer;
-    height: 20vw;
+    width: 15vw;
 }
 
 .modal-img{
-    height: 30vw;
+    width: 50%
 }
 
 #champ-stats{
@@ -68,6 +93,31 @@
 
 #delete-btn{
     background-color: red;
-    margin: auto 0;
+    margin-top: 15px;
     border: none;
+}
+
+.content{
+    background-color: rgba(0,0,0,0.6);
+    margin: auto;
+    color: white;
+    height: 100%;
+}
+
+select{
+    background-color:white;
+}
+
+input[type="text"]{
+    background-color: white;
+}
+
+@media only screen and (min-width: 1200px){
+    .content{
+        margin-top: 5vw;
+        margin-bottom: 5vw;
+    }
+    .modal-content {
+        width: 60vw;
+    }
 }

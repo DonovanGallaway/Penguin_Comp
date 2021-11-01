@@ -12,6 +12,7 @@ $(document).ready( ()=>{
             const champName = this.alt
             const thisChamp = data[champName]
             console.log(thisChamp)
+            $('#champ-stats').append($('<li>').text(`name: ${thisChamp.name}`))
             $('#champ-stats').append($('<li>').text(`poke: ${thisChamp.poke}`))
             $('#champ-stats').append($('<li>').text(`engage: ${thisChamp.engage}`))
             $('#champ-stats').append($('<li>').text(`disengage: ${thisChamp.disengage}`))
