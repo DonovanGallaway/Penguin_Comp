@@ -108,7 +108,7 @@ select{
     background-color:white;
 }
 
-input[type="text"]{
+input[type="text"],input[type='password']{
     background-color: white;
 }
 
