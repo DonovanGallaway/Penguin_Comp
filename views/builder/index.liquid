@@ -32,11 +32,11 @@ Penguin Comp - All Comps
 {%for comp in comps%}
 <div class="comp">
 <a href='/comps/{{comp._id}}'><h4>{{comp.name}}{%if comp.name==""%}Nameless{%endif%}</h4></a>
-<img src="/assets/tiles/{{comp.top}}.png" alt={{comp.top}}>
-<img src="/assets/tiles/{{comp.jg}}.png" alt={{comp.jg}}>
-<img src="/assets/tiles/{{comp.mid}}.png" alt={{comp.mid}}>
-<img src="/assets/tiles/{{comp.adc}}.png" alt={{comp.adc}}>
-<img src="/assets/tiles/{{comp.sup}}.png" alt={{comp.sup}}>
+<img src="/assets/tiles/{{comp.top}}.png" alt={{comp.top}} loading='lazy'>
+<img src="/assets/tiles/{{comp.jg}}.png" alt={{comp.jg}} loading='lazy'>
+<img src="/assets/tiles/{{comp.mid}}.png" alt={{comp.mid}} loading='lazy'>
+<img src="/assets/tiles/{{comp.adc}}.png" alt={{comp.adc}} loading='lazy'>
+<img src="/assets/tiles/{{comp.sup}}.png" alt={{comp.sup}} loading='lazy'>
 </div>
 {%endfor%}
 {%endblock%}

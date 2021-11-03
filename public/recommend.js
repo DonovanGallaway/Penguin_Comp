@@ -26,12 +26,12 @@ const getChamps = (allChamps, champSet) =>{
 
     if (disengage >= engage && disengage >= poke){
         comp = "disengage"
-    }
-    if (poke >= engage && poke >= disengage){
+    } else if (poke >= engage && poke >= disengage){
         comp = "poke"
-    }
-    if (engage >= poke && engage >= disengage){
+    } else if (engage >= poke && engage >= disengage){
         comp = "engage"
+    } else {
+        comp = 'zero'
     }
     // The above slightly favors engage comps, as these are most prevalent in the meta
 
@@ -39,6 +39,8 @@ const getChamps = (allChamps, champSet) =>{
         fighting = "teamfight"
     } else if (skirmish > teamfight){
         fighting = 'skirmish'
+    } else {
+        fighting = 'zero'
     }
     // Slightly favors teamfights, somewhat arbitrarily
 
@@ -46,13 +48,17 @@ const getChamps = (allChamps, champSet) =>{
         scale = 'scaling'
     } else if (scaling >= earlyGame){
         scale = 'earlyGame'
+    } else {
+        scale = 'zero'
     }
     // Slightly favors early champs, as snowballing is subjectively valued well in meta
 
     // total add
     const sortChamp = allChamps.items.sort((a,b) =>{
-        const aStat = a.fields[fighting]+a.fields[comp]+a.fields[scale]
-        const bStat = b.fields[fighting]+b.fields[comp]+b.fields[scale]
+        const aCombat = a.fields.utility+a.fields.dps+a.fields.burst+a.fields.tankiness+a.fields.mobility
+        const bCombat = b.fields.utility+b.fields.dps+b.fields.burst+b.fields.tankiness+b.fields.mobility
+        const aStat = a.fields[fighting]+a.fields[comp]+a.fields[scale]+aCombat
+        const bStat = b.fields[fighting]+b.fields[comp]+b.fields[scale]+bCombat
         return aStat - bStat
     })
 
@@ -64,6 +70,15 @@ const getChamps = (allChamps, champSet) =>{
     const blindChamp = sortChamp.filter((x)=>x.fields.blindPick)
     const flexChamp = sortChamp.filter((x)=>x.fields.flex)
 
+    // for use at start of comp to give more blind options
+
+    const topBlind = sortChamp.filter((x)=>{return x.fields.top && x.fields.blindPick})
+    const jgBlind = sortChamp.filter((x)=>{return x.fields.jungler && x.fields.blindPick})
+    const midBlind = sortChamp.filter((x)=>{return x.fields.mid && x.fields.blindPick})
+    const adcBlind = sortChamp.filter((x)=>{return x.fields.adc && x.fields.blindPick})
+    const supBlind = sortChamp.filter((x)=>{return x.fields.support && x.fields.blindPick})
+    const flexBlind = sortChamp.filter((x)=>{return x.fields.flex && x.fields.blindPick})
+
     const recs = {
         topRecs: topChamp.slice(0,10),
         jungleRecs: jgChamp.slice(0,10),
@@ -71,7 +86,13 @@ const getChamps = (allChamps, champSet) =>{
         botRecs: botChamp.slice(0,10),
         supRecs: supChamp.slice(0,10),
         blindRecs: blindChamp.slice(0,10),
-        flexRecs: flexChamp.slice(0,10)
+        flexRecs: flexChamp.slice(0,10),
+        topBlind: topBlind.slice(0,10),
+        jgBlind: jgBlind.slice(0,10),
+        midBlind: midBlind.slice(0,10),
+        adcBlind: adcBlind.slice(0,10),
+        supBlind: supBlind.slice(0,10),
+        flexBlind: flexBlind.slice(0,10)
     }
 
     console.log(recs)
@@ -86,6 +107,7 @@ $(document).ready(()=>{
         for (let i = 0; i < data.items.length; i++){
             const champ = data.items[i].fields
             data[champ.name] = champ
+            champ.zero = 0
         }
         // console.log(statCheck)
         // console.log(data.items)
@@ -94,6 +116,7 @@ $(document).ready(()=>{
         //     console.log(champ)
         // })
         const champRecs = getChamps(data, statCheck)
+        
         $('#top-recs').empty()
         $('#jungle-recs').empty()
         $('#mid-recs').empty()
@@ -103,6 +126,12 @@ $(document).ready(()=>{
         $('#flex-recs').empty()                
         for (let i=0; i<10; i++){
             $('#blind-recs').append($('<li>').text(champRecs.blindRecs[i].fields.name))
+            $('#top-recs').append($('<li>').text(champRecs.topBlind[i].fields.name))
+            $('#jungle-recs').append($('<li>').text(champRecs.jgBlind[i].fields.name))
+            $('#mid-recs').append($('<li>').text(champRecs.midBlind[i].fields.name))
+            $('#bot-recs').append($('<li>').text(champRecs.adcBlind[i].fields.name))
+            $('#sup-recs').append($('<li>').text(champRecs.supBlind[i].fields.name))
+            $('#flex-recs').append($('<li>').text(champRecs.flexBlind[i].fields.name))
         }
     })
 })
@@ -123,6 +152,7 @@ $('select').each(function(){
                 for (let i = 0; i < data.items.length; i++){
                     const champ = data.items[i].fields
                     data[champ.name] = champ
+                    champ.zero = 0
                 }
                 const thisChamp = data[$(this).text()]
                 statCheck.add(thisChamp)
